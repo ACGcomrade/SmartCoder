@@ -1,0 +1,2950 @@
+{
+  "source": "Picsum Photos (Unsplash)",
+  "count": 368,
+  "images": [
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0265_200x200.jpg",
+      "name": "picsum_0265_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "15e7bf523dd5c65e8d3eab44937f3fa3515d4b41769ceffed938d472c3920faa",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0139_400x300.jpg",
+      "name": "picsum_0139_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "e8ff0ceed343f2982d3de6d94a1fd614f6f854c0644d6630511d5d9894dbdad4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0717_300x400.jpg",
+      "name": "picsum_0717_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "b6ef7057984a7bab4c7936afed3193f624234572270fc2e435bcb947578c959b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0918_150x200.jpg",
+      "name": "picsum_0918_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "8f90fe49779603fdf55f7e796248e2fb8c5a1a34c6f69361bc201c649f1e853a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0838_500x375.jpg",
+      "name": "picsum_0838_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "c9327719f3ee3334118febc437f1f0adbb16f5b0c60dbe98af7c20b0b7e4d6e0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0555_640x480.jpg",
+      "name": "picsum_0555_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "079ea5cc8199b3b9dc7b0d064354eb724efe7ca4615acc81bd876779ea0b28c3",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0426_480x640.jpg",
+      "name": "picsum_0426_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "f8473a0f4c4c7f413bc21fe77701c9e16cf02277a4731749b23b601e9f1a7057",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0401_640x640.jpg",
+      "name": "picsum_0401_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "d8f1ab0dc3a3d55b4655b40b648589248611f0ebaf2be75bd67cf038fcf0d0cc",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0503_600x800.jpg",
+      "name": "picsum_0503_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "93a3d77e6b0cfbcb6a34b1600796bcb62c19478e0bedaed09c7b227a008bb35c",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0006_100x75.jpg",
+      "name": "picsum_0006_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "83d98f0e7c0c292c7377a3167f71529c28fb8cc4b741485a10f6a06ea69d9ce0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0938_800x600.jpg",
+      "name": "picsum_0938_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "c41fce07ac1255598708a25574f2d9d652927f09eeefcf43801c2872f99fdceb",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0816_1024x768.jpg",
+      "name": "picsum_0816_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "f0646da72dcd8f491493fc61c80edb0d245752d76b2fa06edc0798030a54bdd2",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1039_1280x720.jpg",
+      "name": "picsum_1039_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "7810619a176e904b19b4fda8067b344f46634c182973b86c7f2284d0a1ccf6ea",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0526_1200x1200.jpg",
+      "name": "picsum_0526_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "04528036dd08202d8e9ea652eb4abe4856c54a780f1120208ced97fb35bcd30e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0114_768x1024.jpg",
+      "name": "picsum_0114_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "36cd518f116542858bd837f6e3cce031aa78413e359124ec3235f6b141cd7398",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0937_300x100.jpg",
+      "name": "picsum_0937_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "66ee3c614ff024c877c059b5fb1ac5e024aa1a3122b7ce01c882d70e325edf12",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0721_2000x500.jpg",
+      "name": "picsum_0721_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "acc89267ccdc3dccafd86b8525fa3eae205c3d44feffa51a306361cb849eabeb",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0529_1024x576.jpg",
+      "name": "picsum_0529_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "c76e6461e2ef90dddbde9627d4d6c20cd17feaef984e85a62660892f1f9cba3e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0092_150x200.jpg",
+      "name": "picsum_0092_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "033fb03cbab4888d8daa3345a00b5dc9b281cf9706234fc32f1dcdbf39d529ed",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0312_200x200.jpg",
+      "name": "picsum_0312_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "b7398680a4b51f267bcafd8dfc384aace292177d3e2724e3e28e2ce8315752c6",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0296_100x75.jpg",
+      "name": "picsum_0296_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "b97f2f84ca406bac10a217ca8de781aab9b51e5965b2c80bb2bc9b4489df85f8",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0461_1000x1500.jpg",
+      "name": "picsum_0461_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "d0425a369c11e9625d82739a5b9da5b3636c091971d3355dff93a0d3c0baa9b8",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0689_1500x1000.jpg",
+      "name": "picsum_0689_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "5db2d02f27965d70a904b75cc974f403a977ba10122444c1ec07f9c708780bb3",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0263_400x300.jpg",
+      "name": "picsum_0263_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "38d8d4413ac557bf127ead0c3d2f6b39fc7e8e7b32b067af56c29fa6976ee424",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0064_300x400.jpg",
+      "name": "picsum_0064_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "e43a25580bbb3479c3420d3e3382b608aa6f2ae4bc4bc837e92bd52ab1854164",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0756_640x480.jpg",
+      "name": "picsum_0756_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "4a6efd2486f42a8cbe05a5e3206a23663383515a2ebcb66b0a4f7f44eb63620c",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0203_500x2000.jpg",
+      "name": "picsum_0203_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "6cfe01dbf3c6e5e39fb0b150cc66287b8a3100bf67ead52bc51c42bfd41c2937",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0726_480x640.jpg",
+      "name": "picsum_0726_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "a408a1ba111b76dc3037dd66196855cdd78f98cddd000f5e72c5f22f09387315",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0492_800x450.jpg",
+      "name": "picsum_0492_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "9efb707e01cfdf96983e0724625811e4282a69d76a1f5caa483ee6ccd782856b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0886_320x240.jpg",
+      "name": "picsum_0886_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "0361594dfcaeeca1050bbf1d7352cc5f3995db03aab9cf63cc23fae35a21384f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0809_240x320.jpg",
+      "name": "picsum_0809_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "d909a5e5188803c587cbae058375d65da757427fb36bded940540014d3e8ec8d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0328_800x600.jpg",
+      "name": "picsum_0328_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "a00c32c6db9951a99ed732bb2b91cf905641675849f7fa4a1bab3e54991ad5fa",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0840_600x800.jpg",
+      "name": "picsum_0840_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "7208539df9c645fc36753da9b6d78dea179ccccced2dc1bcfe4cbafbd285398c",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0505_500x375.jpg",
+      "name": "picsum_0505_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "4c3c98205ba18acf6cc3550692a40ae1744a09eb0215a6ff0bdbf9ed671429a1",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0018_1024x768.jpg",
+      "name": "picsum_0018_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "68a36cd4624a538b5d717b1e03d714efdc7124462debd8af50badb87b422cdad",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0617_640x640.jpg",
+      "name": "picsum_0617_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "458e689faa8dfb793989a8cf81ed7e79f9158b3d0a74bdb5fc3db016bc3accb4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0511_450x800.jpg",
+      "name": "picsum_0511_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "6214f53539d31c74f75287fd3db1cf41afe82ae0b3c752319e90aecd2569fbc9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0757_768x1024.jpg",
+      "name": "picsum_0757_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "a4ad4c87058a8e47acf5c485dfdb59bf273f55ec65eb7363298edc1d33f179ae",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0569_1024x576.jpg",
+      "name": "picsum_0569_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "504f4dbc55788a72ea8fa61fd80d365520002132c4cab8e6b66281a50035d78a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0891_2000x500.jpg",
+      "name": "picsum_0891_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "e980e329846aeebcc55240250d589f72a1c3d18417bbf88c829f97550de79e2e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1045_1200x1200.jpg",
+      "name": "picsum_1045_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "463754101f432b5cc84c9b4032a62d125ade23ad5879dcb563d07b78a3f31a03",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0444_200x200.jpg",
+      "name": "picsum_0444_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "8974f2fc72a7ff7cd1d3a42a5696d50be7fab3ab2f1fc7e3a04920d959ac0238",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0035_1000x1500.jpg",
+      "name": "picsum_0035_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "7eab03742b59921776848b4f6d62e8864a73d3a67e692e86f812265d03abe6b2",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0658_300x100.jpg",
+      "name": "picsum_0658_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "e69c5e5973952f13fb507e727f02dfbe51a552329e05b31e265fae81b76a7458",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0975_1500x1000.jpg",
+      "name": "picsum_0975_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "0a4a2f499dba58e3d967d4829983dacc700aa96f30a8f3dd504c7ea1c84ac90e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0910_100x75.jpg",
+      "name": "picsum_0910_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "c8c2897146a63929b95f5a8764ecc537d489eb64d7849a499ef389146ff66b9e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0418_500x2000.jpg",
+      "name": "picsum_0418_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "0667fba5426215524667fc4f660f741dd22865fd5ba173ddc9955129041b2b06",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0586_150x200.jpg",
+      "name": "picsum_0586_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "d23f24c35a61ad370a662bdfe56e6e8d39d0f66257afc1baa0f2e8ea65e0fcdc",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0949_400x300.jpg",
+      "name": "picsum_0949_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "e22f5f14ccbac4acb906fc61f98552f808b5c825a1a688322623f76c457068f9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0473_300x400.jpg",
+      "name": "picsum_0473_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "76a697f0277e3ebc5e2ea86c5f69c564de1c1b7ad5aa8ac1b7008513957fcd26",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0823_640x480.jpg",
+      "name": "picsum_0823_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "8650f99c964b9535d31d895123c1a346a60370edf71959f96dac06d75a7445b2",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0019_800x450.jpg",
+      "name": "picsum_0019_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "0548aa88dda80ab3e0f8e8c3bc18822362648eed92b3a09ac9ee0d3c8b18a9c8",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1013_640x640.jpg",
+      "name": "picsum_1013_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "ce22315b853a6e30174cbdf31d35c4945a9bf008f2b4230849634888ef5d013f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0051_320x240.jpg",
+      "name": "picsum_0051_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "64e93c481aada86e5f6e82687667bd8b3e0732422b572b6e4bb0f77191aa72f7",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0030_600x800.jpg",
+      "name": "picsum_0030_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "c8d8b3f24251b0ccb2f56eb94ff187b48d1daa62eed10e56f6e5a7e6074b6661",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0017_240x320.jpg",
+      "name": "picsum_0017_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "2e2273f24b986b3274ed8ec4720e7bb8e65dd1ee1451a25e13fa38e46f985d67",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0639_1024x768.jpg",
+      "name": "picsum_0639_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "4380b292174c3c8d8c30ed091d1e287dd3b838932868d86e439594ae3e3c988c",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0718_768x1024.jpg",
+      "name": "picsum_0718_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "2c6c3a9ee0e63f459fd9639845dafb83e22a34bfc8d8810aa4a8d26dad44deed",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0845_500x375.jpg",
+      "name": "picsum_0845_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "e84af63ab8899df26ae4d45fc993351539b7696641d3f61b294a0b8c5b0b06c5",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0703_1280x720.jpg",
+      "name": "picsum_0703_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "980f4915db1b50585957fb01dfe28cfc2db16796bf6846344df99c8ed4382366",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0495_480x640.jpg",
+      "name": "picsum_0495_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "6ec36277f46e373a88bc234091d70d3fcb6a571658a6bfe0733e1c3847247659",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0810_1200x1200.jpg",
+      "name": "picsum_0810_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "efd2698cca18f4b560b3aef18b3b60389abc0cdec1dcc7785605a8636213f376",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0145_450x800.jpg",
+      "name": "picsum_0145_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "72fd3dc3b52f44c7216242336e3deec372699001ea9795b9c4d561347f3f296b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0496_1000x1500.jpg",
+      "name": "picsum_0496_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "6d3424a9831ab139269e667dbedfc7be1e991b55cf6f97f63546d03c5b4c286a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0187_1024x576.jpg",
+      "name": "picsum_0187_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "d0bbbc309f8ceee9c8ca28ac66dcb1365ef2785e18a133ed94eb4435c7709b30",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0365_100x75.jpg",
+      "name": "picsum_0365_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "2f0e45f4e93eeb0d34097d1efdaa3a545a5a4e390b81c432226e7e903f5975af",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0459_1500x1000.jpg",
+      "name": "picsum_0459_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "361699bc1ff0384b2f4e6559924070543293083ed4e0866f0585e7168dedf848",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0230_300x100.jpg",
+      "name": "picsum_0230_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "005dfc33693d7b8b4ff281ce1e16eb5104b7b4bae61f96c3cf86b713c58fbf82",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0034_320x240.jpg",
+      "name": "picsum_0034_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "4d4e76a8b6c44c1424d70917518de81643c1ac61835b7cb04d177f0373c60615",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0826_400x300.jpg",
+      "name": "picsum_0826_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "693a04e6ced1e3f9ab519ab327c778ca3dca35fe5c1bfa27ec8386249fbd2647",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0982_2000x500.jpg",
+      "name": "picsum_0982_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "56b3acd8ed621c7b84ddad679592ceff615020f8ebd044664514b2633a7dcb05",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0343_300x400.jpg",
+      "name": "picsum_0343_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "37eb4bbd7b0c2a14c7ef52716b7028e4f514f743aac975a1d922e23521d690a1",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0456_500x375.jpg",
+      "name": "picsum_0456_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "67a3d59603cee88fc8ed794fd61320c2b839b3fe01e741bcf8cfdde4334ae691",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0299_150x200.jpg",
+      "name": "picsum_0299_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "95b66c3b4e28204f3088d63fde1ef33ab51a5ad825bba74fe5aa7de7324bb284",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0972_640x480.jpg",
+      "name": "picsum_0972_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "0b4cbdf9f8b2348d98ef55336526de5093e61b759e1e555b16dc88e2ae34df31",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0509_500x2000.jpg",
+      "name": "picsum_0509_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "3a841c3c04a27214a2d8e4713ab267b1d6cc0df6e5f95fb30451bec83d105345",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0631_800x450.jpg",
+      "name": "picsum_0631_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "e83e245e612c457fc79e3c6ae5d804f466cecf1f5b85ee0a53da70d2fa309304",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0429_480x640.jpg",
+      "name": "picsum_0429_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "3670e28a608712c86646ce6e26fddaf0139b5a77d270c7f37a4682ceae12d29d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0398_800x600.jpg",
+      "name": "picsum_0398_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "00482a177b36ecbb9af0b8a9712d2b46e8b536609f1eae91ec36c07ef3503373",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0764_640x640.jpg",
+      "name": "picsum_0764_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "32857520abed8a2951446278deb6f3760f3f30d68ed9f7f64ab57a44db27f478",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0572_1024x768.jpg",
+      "name": "picsum_0572_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "988f53f2d2579d491e1f46e855eb36f390f5e1d7d363e08ef0b47a59abf998cb",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0186_300x400.jpg",
+      "name": "picsum_0186_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "1629088daca5fd20d41ae5182355d3dcf14bde3f80f0079d8a6432ce86a9ddd0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0028_240x320.jpg",
+      "name": "picsum_0028_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "02749def5bbb2b21952034afb058806e6ed9621a43ce9f2c97fd6ac9ca4f271d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0080_1200x1200.jpg",
+      "name": "picsum_0080_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "a703e0eb6e752ba4d1703b7bb10d12154b1837f50727ab35994147ad7d8a7bdd",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0077_2000x500.jpg",
+      "name": "picsum_0077_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "b6b67c31996faf563a4e62fdc76086999ac356312ca2f8f283cdd4c839cfb524",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0858_1024x576.jpg",
+      "name": "picsum_0858_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "dc3c280af2f1dcbb87a5c723eac06396224d320a1f993f860353b00cebc23f6a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0440_450x800.jpg",
+      "name": "picsum_0440_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "a92a6eac635e77b54492de271dba1db950d70df399b7de5c25f7b5c1afd09871",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0054_300x100.jpg",
+      "name": "picsum_0054_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "73260c68014f9d7ea8d8e16b5316d36af72c27883eb94732e6bb63eb2c64c8b4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0989_100x75.jpg",
+      "name": "picsum_0989_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "c75a58c96af2244e621e19836ca5de5c42217e092de02d5220976245539703e0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0693_150x200.jpg",
+      "name": "picsum_0693_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "832f8f3a75faa48a630cc48da12156ed66b45099c0d45840cb3f02d1c55889d2",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0330_400x300.jpg",
+      "name": "picsum_0330_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "6cdc767c3623266233ce385c40ee0f7831c2659c609ef371cf4d5cdf578cdf27",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0758_300x400.jpg",
+      "name": "picsum_0758_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "aa603f36179702992c17fd6bb5d790ac0e52e517cde3f181a0c29db73a138c2d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0692_1000x1500.jpg",
+      "name": "picsum_0692_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "d3ba503862f1f233850e66bfa470aab3ec01ccfee888c96644de55efa92236f4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0370_640x480.jpg",
+      "name": "picsum_0370_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "8d3c06b49bd41c9fdac792f459d1d0790fc4a6fa385eedd118fcd89e69e84e6e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0667_1500x1000.jpg",
+      "name": "picsum_0667_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "020ad10fcb18a102c723e41f5ed4a1541d2c5b810d8deca11b3845cd7bccd474",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0214_640x640.jpg",
+      "name": "picsum_0214_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "b00f3a28c6de11bb862603b5938c441242ffa890dff99c0ccb0f640a70c2a905",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0911_320x240.jpg",
+      "name": "picsum_0911_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "a20b597b697326ed5d730fef9e470722f3a50f100dc5f3026ee912821e65384f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1018_500x2000.jpg",
+      "name": "picsum_1018_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "5bac68f7b7388e6f2ce13f9e4d76d77e19ca10f66af5e54723f51f457f8001dc",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0870_800x450.jpg",
+      "name": "picsum_0870_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "b5fbc3ffe8519d2039904f3eb7a171d0d07a789d83612eea443e169de369a434",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0966_800x600.jpg",
+      "name": "picsum_0966_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "e8469946db1eafac5a6c5c800c0268ef2f9dd8211c0d69a1b81eb63ba558ef35",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0416_600x800.jpg",
+      "name": "picsum_0416_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "d14f9f00fb6dad077a37b24f58581a10f053e10fedb8113e09907cb546d5576c",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0355_240x320.jpg",
+      "name": "picsum_0355_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "545bdf2dd66f55afdab0bf4bb0889c1a60b33adb41a621a938733bd3e412765c",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0424_500x375.jpg",
+      "name": "picsum_0424_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "cdf4c523fa18e3a29b21bf85e04921b20ed1e46abe4d3c42e1ea06c4b90591a0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0696_1024x768.jpg",
+      "name": "picsum_0696_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "7617a5daf9d49c16a5430b9f93c5809b22cb651b5f33a03c9b6a9112333b5870",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0361_1280x720.jpg",
+      "name": "picsum_0361_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "7f5d584620391373d049157d03e01a517181acedea0924b3555f0ee322aa2be2",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1000_768x1024.jpg",
+      "name": "picsum_1000_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "dd8221bce2a610a494d5738cc25dac1791dcbc66dba18c3f324f5f7cb5fa0728",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0161_450x800.jpg",
+      "name": "picsum_0161_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "6f803f6314185f3c52ba87b7e2e66b20a2ae3ac6f2758de10a59ec49a8bead55",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0257_150x200.jpg",
+      "name": "picsum_0257_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "ba48b00d94b9e87ca133c1797b128654067aac6fdff059e5ace834aea06b7789",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0351_1024x576.jpg",
+      "name": "picsum_0351_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "d172b6d2cbc109195b68fb5cad5360d074d6008f96e4a18e0b87daab830da03f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0618_100x75.jpg",
+      "name": "picsum_0618_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "c209e0deb76b3e929bbe27d61da866f815351358cd18daf5dcd771c7139ef07a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0481_300x100.jpg",
+      "name": "picsum_0481_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "31cad62135022dbd63bd42ef20b26b4bdc53f4bae5b5e50d79e1acfdf26eba04",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0682_320x240.jpg",
+      "name": "picsum_0682_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "8a406f330bf4102d8f4b9bb9b01aac2b998377bbeca9298dcd4a3368b1d21f20",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0933_1500x1000.jpg",
+      "name": "picsum_0933_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "739bd7e990f2859c5905b715e5b0978ba2482c0be2567be32f2d8765973cffb2",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0194_1000x1500.jpg",
+      "name": "picsum_0194_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "ca56302de9dd5fd0fb827569d0a0c5c052f1bd913ee88a56d5e640e20c11a932",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0805_400x300.jpg",
+      "name": "picsum_0805_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "2ce59b2ff362a587c4d0b73e7fee0d8f27518fb4d94903f381a49f8572b355ce",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0929_2000x500.jpg",
+      "name": "picsum_0929_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "1494d22acfeed3351094acfc649ee660cd5247e2e3e832276012f50a46ecf87d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0435_300x400.jpg",
+      "name": "picsum_0435_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "09f8fae8b8c803755fac771260663a625149a6b0e5870b83903d73622063da20",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0694_500x375.jpg",
+      "name": "picsum_0694_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "b69d1e1d0ff17a2d145774ccaa9f47933ae0295cad07e97783686077b38ec6b9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1044_640x480.jpg",
+      "name": "picsum_1044_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "304d81a65b2c86bd3b20d5249d7626ba175e506625a525786ff185db438be596",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0986_800x450.jpg",
+      "name": "picsum_0986_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "04fb77aef420db7209296d9eca88d059d873aac55980b36c6750e86ee4ae8447",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0724_640x640.jpg",
+      "name": "picsum_0724_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "5075f67d1903809454f5b57d38147cfd7e57d764d0ef0b132fb2ed6cf39435d9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0981_480x640.jpg",
+      "name": "picsum_0981_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "9f286609dfb43cbd4d089bf774b9fcba0b4d70c1c59108497f82345898debc59",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0885_800x600.jpg",
+      "name": "picsum_0885_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "091f494d8f4cab28f85758e10a5d570594b5c88eae1d75509ceecfff6fcccece",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0154_600x800.jpg",
+      "name": "picsum_0154_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "850be31199f54ad08518490356e56393e5325892248b6a9fb7bc24dcfce1f11e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0174_500x2000.jpg",
+      "name": "picsum_0174_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "d8439d680d3d79b42816a434be2ef1bda9bf81ccc7f42af51300f0df4195b5d5",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0137_1024x768.jpg",
+      "name": "picsum_0137_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "dbcd993e26c14615d2456849c5063160390009b70dd8a9a80fd0f14c6a2fbf20",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0376_1280x720.jpg",
+      "name": "picsum_0376_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "428b58392478e50cb60d1b7c2909ca26d15ebcaff9e70df96baa842767f64230",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0856_450x800.jpg",
+      "name": "picsum_0856_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "9de6b465e187995c84e47d19af3deebe210112d33b16ff7a3b10d10046e2d824",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0283_1200x1200.jpg",
+      "name": "picsum_0283_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "12d2a05f49ea5cc798f82a1b75b3ce47f07d8311fcbd1ab8899e7ff3575d3a6d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0331_300x100.jpg",
+      "name": "picsum_0331_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "b5e5ecdb8ed46918899697f8e73162f018009d91bd84ebe7a6e3b6000e3089fc",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0663_1024x576.jpg",
+      "name": "picsum_0663_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "dd45745a9a2903a3ddcd8ebb247aece2be3aee9b0450d91aa369639074f179ef",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0818_768x1024.jpg",
+      "name": "picsum_0818_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "51a0b049c75a49378ca73a94ad417207d5d0c707fcc3b3567f887f2cc251d92a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0728_2000x500.jpg",
+      "name": "picsum_0728_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "cb8b80a1a9cf8776bd06d609233544e408364a7940948ba125e99095f96f969e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0852_100x75.jpg",
+      "name": "picsum_0852_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "8bada04194dc9cea124b747383a0857dd12c4241b9225c882c95282b290915bb",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0151_200x200.jpg",
+      "name": "picsum_0151_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "ccb385426c8530e33f3a44fb1f2653e476f86aa3c643e5e53d097a422d80a209",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0211_320x240.jpg",
+      "name": "picsum_0211_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "5538ba701acfeefaa68e1aa4cbb01b38820866c34069d4afe804bb442f80b53b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0859_240x320.jpg",
+      "name": "picsum_0859_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "ccd4f825436c687f7c186f6dc63a4fc4412dbebb361558af426c6e77eecfc20d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0483_400x300.jpg",
+      "name": "picsum_0483_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "1839f59afdd90e7d20132937c51084d341e3f792312a9f4bbcd795f652a48542",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0252_1500x1000.jpg",
+      "name": "picsum_0252_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "a6852c1dc73d075e11278ad84a62ec4fbe24aa0df57b68650972e219bc8e6a56",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0615_500x2000.jpg",
+      "name": "picsum_0615_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "a0b2de4de5781f8d26d9e7370dec0d927b2dc5e53520d3d826350139e8504d1d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0640_300x400.jpg",
+      "name": "picsum_0640_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "4ccd6e26792284db68b39d3167312c3f4003a7af8e91a7afafc7e165b30e0170",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0050_800x450.jpg",
+      "name": "picsum_0050_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "d3c896a60920caffb8a7151dcffab9b4c896f7a8b9057fbc0f96ffc3703f896d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0291_640x480.jpg",
+      "name": "picsum_0291_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "9b8b2fcefd6d78ee1ae16e99d614b79c2b4cdabb19dc777f72b14e43bf31f3d7",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0828_480x640.jpg",
+      "name": "picsum_0828_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "75490c7b3d6702b9623c2ef1a5069f7ecc1561cc625295f91e41f385cba03b7a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0834_640x640.jpg",
+      "name": "picsum_0834_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "dcaf9c7c9a836b504d279fbd1abfdbbeb50102cfa2500b40a254fd2d3473bfbe",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0093_1000x1500.jpg",
+      "name": "picsum_0093_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "9aa47e819dd277eb866c1e9f1573d378a7c535a77e6d6540129090d622e3ad3b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0950_800x600.jpg",
+      "name": "picsum_0950_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "b6989377193328dd9922fb49223ea4ee9fa45f2609d82945e3d82a3d47cd2f64",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0616_600x800.jpg",
+      "name": "picsum_0616_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "26affdb4854065dd5a90116ae1c6667962d3bc72d109e38fa5d3efc1e5bd05e3",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0836_1024x768.jpg",
+      "name": "picsum_0836_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "e59817088615653d06bf87ed2331cf74a54bdc45c0ba9416bb089c046626a76b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0415_1280x720.jpg",
+      "name": "picsum_0415_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "4ca7a192f04097051c98932cdb1113a967963dae3541b4ba27e6e689f2438f9a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1006_1000x1500.jpg",
+      "name": "picsum_1006_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "73c7ec64a7d998f3e2e984bb57f1e8839ae7027711225d412a3fe7e222c277ea",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0031_450x800.jpg",
+      "name": "picsum_0031_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "e423ba6dd53dc737d213c41d7cf0334cb87347a190b1b48d956b734d2072b80b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0839_1200x1200.jpg",
+      "name": "picsum_0839_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "1419d353b1e58afc2c9b32e2222297cdc75f0fb375a9c5fefe7f543b62743d61",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1041_100x75.jpg",
+      "name": "picsum_1041_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "0a824405fb1119d5ca9b0156e717fdbc7d01251ec785ce67f7ffb736a992e494",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0117_768x1024.jpg",
+      "name": "picsum_0117_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "501ec5a27f07e30da93c5a2333d83e8c703623f92fc41a229d9438da923c43a6",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0089_2000x500.jpg",
+      "name": "picsum_0089_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "ed8427d7f2f1ac34671b9d7277d3f8da9eaafa47f97a07cd830083947eaa25d0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0334_1500x1000.jpg",
+      "name": "picsum_0334_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "fafd48ab35deb6e78ac89e01d5d9e6ba46ad4e6df66cc694d9e9d2fccfe5e319",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0811_1024x576.jpg",
+      "name": "picsum_0811_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "29ba58c3e34f413b13f5b986454bb16ac7d66e8a94947afd644ba90487e04766",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0149_200x200.jpg",
+      "name": "picsum_0149_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "176c1917ddcafdd5012f91fd538dc874b5ffad74442398f7b2604e70a3559071",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0396_320x240.jpg",
+      "name": "picsum_0396_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "079cec9481fc096f493962b6befde3427b73dfadd0306ec8a51a0aa1c73dfdde",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0294_240x320.jpg",
+      "name": "picsum_0294_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "46eb3dcb102660e2ffd13f3ab104bc2a07a2f581bf4985eb82eac7747e8c6dad",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0613_150x200.jpg",
+      "name": "picsum_0613_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "a1343bfe320aeef95066b3627bb142519fbd53d5e3fd72ed669b66d1f9397c95",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0646_500x2000.jpg",
+      "name": "picsum_0646_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "2078f726793a61883c8647ae44182d56ae6bb956969eca5e6939c94af15e77f7",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0393_300x100.jpg",
+      "name": "picsum_0393_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "7876542ee317fbbaaa03a5ca5c0774e60eb781a60faa1d41ec1ff58e2323529f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0562_400x300.jpg",
+      "name": "picsum_0562_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "1af5dbabfd7d9c7a1e526bf0be123b4054afc0557090179e3de3203a57c84238",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0983_500x375.jpg",
+      "name": "picsum_0983_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "31f92647352506ad030fc9853d3f83f2fa0b9341b4cf1ddd3e8ad6c60aa3fac4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0057_640x480.jpg",
+      "name": "picsum_0057_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "3bf68487c25180b9bd47a05c137c0e95c4365534afe8b7c3e541b036e95dd3b5",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0437_480x640.jpg",
+      "name": "picsum_0437_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "b93a693545407cd80c43b25457f5f6b2f5fc6bcd6c028432bee69536ca7975aa",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0455_640x640.jpg",
+      "name": "picsum_0455_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "92d548fe9bcef621180ccff246161b65a14c1bfed84b507870c434d8bfc1342f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0005_800x450.jpg",
+      "name": "picsum_0005_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "639a77469627b6f9bbdc9a0b51467bdf5eb9a8fabe00f8b9edc706e71aed3c30",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0196_800x600.jpg",
+      "name": "picsum_0196_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "3fee6fe003ee14362e07b45d8472442314fb8136e9618dd38cb1ffc3718a2969",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0819_600x800.jpg",
+      "name": "picsum_0819_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "a7660e38d4675e8e75c70eeda86e2573ab2160a5cea3dc8b24b51e18065e526d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0122_1024x768.jpg",
+      "name": "picsum_0122_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "1dbf782acdfba83ed9e4cf47fccdb822066533fedc0e80c561400c860ed55079",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0242_1280x720.jpg",
+      "name": "picsum_0242_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "473f51ab4444744fe0045716ded0e36465959b4eba5045cd4fd49d851279ccfe",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1023_1200x1200.jpg",
+      "name": "picsum_1023_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "1145149c7c0120cb20830edd3d99f9d5e6431892dc06b32e5e0efce6d1ff80de",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0733_1000x1500.jpg",
+      "name": "picsum_0733_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "e94f3d18bd2eac95c7be9379bf013ab262d9fc9048e700d90846c17853089ab0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0873_450x800.jpg",
+      "name": "picsum_0873_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "3e89342582c699793c77f218e5e89caf9761d17a6b9f8b80231b1a834e0d4cb2",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0606_300x100.jpg",
+      "name": "picsum_0606_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "4b0ea3ed021a5288bab694bf95fb6f56acda7deb79b8e4355613b20fdf488a51",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0185_2000x500.jpg",
+      "name": "picsum_0185_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "cd34a138d3524b7d56d76bc0b7d00f9c6c63d66688b568add0efed5189c55127",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0605_1024x576.jpg",
+      "name": "picsum_0605_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "c8f451e47d89af092a1f1eeb532f53fc521fe1c9d86ca76789e5706adc85feac",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0612_200x200.jpg",
+      "name": "picsum_0612_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "16bc4a4e9627e1f81b39979b42efc6f6b194b2b4d71d15ac09431c8af9b83200",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1029_500x2000.jpg",
+      "name": "picsum_1029_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "e1ce578cfe4decd14ab9c90c8756324469b48d3a6dc4cd3e0a3d9342eb2b1b55",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0177_768x1024.jpg",
+      "name": "picsum_0177_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "ebaef5de82e4e1a729ac60e251322173006c46d0a960660a8b3d046511c9d45f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0999_1500x1000.jpg",
+      "name": "picsum_0999_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "dc99a45dc3eff3453c6e1dec7c3a89e9fb8ddaed3ea0040d66b0372ad8a31063",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0302_400x300.jpg",
+      "name": "picsum_0302_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "68c7027199cb413de53356e5f2fba8618b5c4a037c7c1a38d979b8d2ba73d674",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0350_300x400.jpg",
+      "name": "picsum_0350_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "7bbd0fe27920c64ee6d992bd34989b98d967816fcb442611ba80840a75f71cf0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0397_150x200.jpg",
+      "name": "picsum_0397_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "5ad35e8e12000b4b7abda954227a6b2ff08ced7f1ab5890b4c16a74e8daedee6",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0904_100x75.jpg",
+      "name": "picsum_0904_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "0157197a6fa69b3c1c7f579fd952b03161f90fdbce094dac36ee0bc64c3d2ada",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0402_500x375.jpg",
+      "name": "picsum_0402_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "99cfafa5828426f9125335e5ee6828193462996da5225e78d05516500e59d518",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0833_640x480.jpg",
+      "name": "picsum_0833_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "372c1c33df8e0df8a8df7e6cfe67777de30bac408d8ff61decd821dfcb5bfcaa",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0067_480x640.jpg",
+      "name": "picsum_0067_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "45a683618c5634390a6a544b9ecc19b8246da46ff7834ac7227312b6ecfed1c8",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0914_640x640.jpg",
+      "name": "picsum_0914_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "db2b5bf199b6f81bc3c838f498e2be3f8bc5cd5b59b19f0f5bffef432cf3b0a5",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0497_800x450.jpg",
+      "name": "picsum_0497_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "480a176e53713301696767dfecef283ed46595f1de8ddbd7b5a56a4b26389463",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0654_320x240.jpg",
+      "name": "picsum_0654_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "c7d701db5fac2f85e9026dea896ce45a2bd9d816a38acff68918c4c584bcef32",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0273_800x600.jpg",
+      "name": "picsum_0273_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "16b504c9616ac95fa4b857902fcae5fddc34a0a6c3237b8ee571c87e27fc3ab6",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0992_600x800.jpg",
+      "name": "picsum_0992_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "a5605d79dedb1e4496aa9b0cacc68d5772f6f7655c84c653a7234adc377a9a43",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0476_240x320.jpg",
+      "name": "picsum_0476_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "578bb603a321365deb16d51de5ae7c23240cde7eeeb620db8c9938b1219b1220",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0490_1024x768.jpg",
+      "name": "picsum_0490_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "f8b28bf933ae578230ae2a97240bb013ce09277423d557c59a3dd0f294d200b2",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0475_1280x720.jpg",
+      "name": "picsum_0475_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "c165225092378ab14720e2005fe4b9c2d0d04ca015df7697323ec581be5dead7",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0790_768x1024.jpg",
+      "name": "picsum_0790_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "d141041982da409d0ae4dfb131c60be8fb5b3618368a438af681d21033890a0f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0405_450x800.jpg",
+      "name": "picsum_0405_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "a7a37d274915194461674f60b989d43c3ce319b1a762cc94eefab3334c0a7b30",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0232_100x75.jpg",
+      "name": "picsum_0232_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "6f3a505ad617dcfe39fea400388fda2dafb0e6014f3d9a75656fb89e8543e687",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0098_1500x1000.jpg",
+      "name": "picsum_0098_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "c211aeb9f33b557ff1054cb55ae451c2b7fbaad3a81952cb726dde73efe5f93a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0375_500x2000.jpg",
+      "name": "picsum_0375_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "b6a4a502c68d4926422da30e831cd636ff2688309f2dca84343d362809e341ad",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0814_200x200.jpg",
+      "name": "picsum_0814_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "77efd051455f6c5c0c7735f0cbacaf7f5eb9ce85ace231dc1934b6bcd43df368",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0962_320x240.jpg",
+      "name": "picsum_0962_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "3d2db0f0170e807b1fb9cccf9d485d606646b36e61f8a1a51f5333d76248b2e4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0023_240x320.jpg",
+      "name": "picsum_0023_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "6c1b1690139011f44ef741bef8652763efe79e8827fd7158daaefd0c561802e5",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0282_1024x576.jpg",
+      "name": "picsum_0282_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "c9eb15924ae74b12adad89649cdbafdcc686c8ec7f88d6505bb8d3feb8a44792",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0450_300x100.jpg",
+      "name": "picsum_0450_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "f50c31840f660056cccea1f30bfb7e92cf517c5d0d9f52589da099ce6bec4926",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0835_400x300.jpg",
+      "name": "picsum_0835_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "517ad85327a59b753365a1bbe6617f47f584aaaa484cd1606b3ed1fecc1489e7",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0404_500x375.jpg",
+      "name": "picsum_0404_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "cecf3f35fdf113b2b97f61bb8b6b913a7537437a3e3d8553ad2f3addd2f00774",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0807_640x480.jpg",
+      "name": "picsum_0807_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "e7ff071e66b45ba3833ebd0cf69a78151ba616880c1d7678a33817a917c67fe9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0516_300x400.jpg",
+      "name": "picsum_0516_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "40c56ea9056fa6936aa2f2e300784c66ad038116b4dc48fde9f53b1dbe138c0b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0671_480x640.jpg",
+      "name": "picsum_0671_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "6f5de8b860d85d1b8bf5e88d7beb8f8175680dab32617059388ea80d3749372f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1011_800x450.jpg",
+      "name": "picsum_1011_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "008424646773fb50268771b9305d3f12ab5595ba8df5b9044275780c4cd187ff",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0996_640x640.jpg",
+      "name": "picsum_0996_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "e3253ed968c08a763c380946e16fbe606bf4e935445620413fc4b05969ab88b4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0772_150x200.jpg",
+      "name": "picsum_0772_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "c02b5a271f4a636c90d8d25cbbe69d28ceea5ef18be6144dc8375f8068a50dd0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0560_2000x500.jpg",
+      "name": "picsum_0560_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "7053b21d77d58335d0b75f96a0130d57f437bf9ee2f13e62db0e2003d88ed855",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0120_600x800.jpg",
+      "name": "picsum_0120_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "eef69ede6bceba3251252373ebfbcbb5d7bee5758501c92ed3e87a831e54f5bc",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0679_800x600.jpg",
+      "name": "picsum_0679_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "48725b4fcda94c47a682d9960dfa6e10f4261287c3b1ad4c693db8d3a8d3c1c6",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0199_1024x768.jpg",
+      "name": "picsum_0199_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "9488e095a7ab788f96532ab866bb84845364ca132a14f9cfb45db0b676dd9f01",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0583_1280x720.jpg",
+      "name": "picsum_0583_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "7e4ae2cf884234ba1a0cbda881e8be71a2c4cc0f4bc5b88f5afd1bfcebf45c23",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0857_1200x1200.jpg",
+      "name": "picsum_0857_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "ff1ef3dbdc2fe04ecf4cb12967f2ff27c6502740979d824f37793de419f2c962",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0468_300x100.jpg",
+      "name": "picsum_0468_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "3a345afc0ccbc6c83aa20230b4f1713b4990359cb64e7b4809367b1ccbf821cd",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0630_768x1024.jpg",
+      "name": "picsum_0630_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "00f9818b05deffb3e76554a85b88fd83bd040713271fd9c3f2a34d192c0d3363",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0288_200x200.jpg",
+      "name": "picsum_0288_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "9bde49daec524caa7737d230ed5fc764616a67d9be147d3a034f2cef2b0c4e82",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0248_500x2000.jpg",
+      "name": "picsum_0248_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "3748b2df33f5bc071e114a6cafd1e25a7006d84f10673fde647a4713a4faa7f0",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0212_450x800.jpg",
+      "name": "picsum_0212_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "2ef215887e47e7341e94def27c71cd60283e865b1c3c70665ff57a35dd40bfdd",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0738_100x75.jpg",
+      "name": "picsum_0738_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "b0b99776345b58e42735c945ccf1db515ee27a9746b68d280d8389f0d94a3aea",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0528_150x200.jpg",
+      "name": "picsum_0528_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "2791cb5e3e0a4f53e6471acacb9166e6ad07c5385c41ae2172f91a158285380d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0201_1280x720.jpg",
+      "name": "picsum_0201_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "d2be80bec9530dcf063cf1c6b4d3edccfb5cba9d7a0bff081a6c85a8d73c483c",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0576_2000x500.jpg",
+      "name": "picsum_0576_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "1514921f59054e33a302935e2554a500aec99cd104062b9383d3bdab5580d0b7",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0431_640x480.jpg",
+      "name": "picsum_0431_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "e25e8950e8d500367bcfd9bbc1cd83b2d3309f077aa7cbdd6f132fc7c52841f1",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0900_480x640.jpg",
+      "name": "picsum_0900_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "e20fe66b7e2b59684f408be71691835f5d85d71ce658e63d7bc6ef049c7cd0ec",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0793_400x300.jpg",
+      "name": "picsum_0793_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "f8f9b749fd4efed8a5530fd3e925f447312c5939bf97f9b8618a775a584c9658",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0386_320x240.jpg",
+      "name": "picsum_0386_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "00437a867dceb5ee20756eada18a4faa7822073a27571942186f5b91d4ec0206",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0158_1000x1500.jpg",
+      "name": "picsum_0158_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "425296dee676be203742865b178849a9368d238d8b6b03bd85f5817496a562db",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0478_640x640.jpg",
+      "name": "picsum_0478_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "7657ed93b963d320a4b03968cffdf644b60db9c5507cbc6b3bc84c4b736ac5bd",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0007_800x450.jpg",
+      "name": "picsum_0007_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "458a64ba7fafe6f2e6357c75d0198ef0a1c0a9c3a63c0d48e4cd8e25134d58f8",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0175_450x800.jpg",
+      "name": "picsum_0175_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "11a1cca9474c200cb294b87453ae9929d062d1d37973055b2f28621a0a806207",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0222_500x375.jpg",
+      "name": "picsum_0222_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "4f1ac977649e386a50502d78c0b308995d5b1e68df4424eda7feb32144777308",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0260_800x600.jpg",
+      "name": "picsum_0260_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "094a614294e2ffee383ad7285c9de25b7cae73e8b3b768348b9de05dc9734e2d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0645_600x800.jpg",
+      "name": "picsum_0645_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "7e53c49fa397b60db79262f035447891ea2e65bc251b4b54a3fc1b6c3733f1bc",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0872_1024x768.jpg",
+      "name": "picsum_0872_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "88fba989785641b57fa4fc40a4a13dc85b54d5e65a8c1d8d7d2fd76620206083",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0178_768x1024.jpg",
+      "name": "picsum_0178_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "302954130b5de59da00bf79da4cb8de7d266490e6da608fe15500db3eda942ae",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0796_1280x720.jpg",
+      "name": "picsum_0796_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "ec2105a16797bc9908014dfa67645ba931e2cd81b475d5ddffd0c5c3a10d9444",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0846_1200x1200.jpg",
+      "name": "picsum_0846_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "e4631d9ba052112f4fb947d5dec5ad048c96e2adf3ddca7a86a05df3f2df0164",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1048_300x100.jpg",
+      "name": "picsum_1048_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "fc82a863a186f81682444edf9bb4cdf288bc516095ff2bd77775f4d01a1f05e1",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0978_100x75.jpg",
+      "name": "picsum_0978_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "0606e22a19cd4fe2ba45bde2476fae5ccf68a668198c55f588f57b036dbd16fd",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0491_200x200.jpg",
+      "name": "picsum_0491_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "3977a14104d0d54285ff21ea1817735b066de6cb9a699ff4c342e87acb646a3e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0039_500x2000.jpg",
+      "name": "picsum_0039_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "12995685f716e31376315059be30ecef4922a41e75908c451b5bf0bd682c1551",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0602_2000x500.jpg",
+      "name": "picsum_0602_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "05ccde7b23e400dfd54221cd0270bc4602df55a0adbde017d6e4b8fa28e2c6cb",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0500_1000x1500.jpg",
+      "name": "picsum_0500_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "fb3d2b51e545e4bae47d25a6665a211d4d6a6bf4f90401b3ac064cd7c2a911a6",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0190_1024x576.jpg",
+      "name": "picsum_0190_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "c12fb243c0e073133c5496dce2a3908952c232c54eb2997f76520eb6d23b0a13",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0674_300x400.jpg",
+      "name": "picsum_0674_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "a15d524f50868532ba9a3e8e92eca3cdbec4944789446f9624cbecadb14f3506",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0625_400x300.jpg",
+      "name": "picsum_0625_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "d258469427272f3086b47b8be7508dc2745bfdbe64f0c29f6fc398283436b575",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0926_320x240.jpg",
+      "name": "picsum_0926_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "f732bee769a049a275aa67536eb231336e130cfcb7eb9d00420feb2933a76948",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0193_150x200.jpg",
+      "name": "picsum_0193_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "4e161128d38fb228e59af45e6bdc6c4a3a0437b11e24bed69267fca9d181509a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0974_800x450.jpg",
+      "name": "picsum_0974_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "4f51b982e5d4ba21fcebad85f18646e8f646c985399002735b4f429a03c73fb5",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0326_800x600.jpg",
+      "name": "picsum_0326_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "5756bbb301400231c900df868fe1f325f163800bd0c629027f8866219a7173e8",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0755_240x320.jpg",
+      "name": "picsum_0755_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "3a4be3c1937b08a10b905b9dc7e3fe81e86ce3a25cf115ec6f5a46b8bd5749ed",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0538_450x800.jpg",
+      "name": "picsum_0538_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "56f5836b2fae506dda93644d82b07e6582cc6e03998ab57c3d0f349ba821df53",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1042_1500x1000.jpg",
+      "name": "picsum_1042_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "2fb3e42b75a27bc2f195e56eda8490f7804227ca72656433f65439adb40464a4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0290_500x375.jpg",
+      "name": "picsum_0290_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "bed41dba2aa30d9e42598aca7e110476b40613fc4f71a41020657ebe6d9a10a5",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0065_1024x768.jpg",
+      "name": "picsum_0065_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "ef6189d88edc56895456dfc9757fea0be79bf730ca428a21d3f2a667e8125aab",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0841_1280x720.jpg",
+      "name": "picsum_0841_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "fb97949c90e42264933227d99ea2ea9688703de7cd04bea8d1ebb44e62338dab",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0941_640x640.jpg",
+      "name": "picsum_0941_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "2f7dab5c33254ed10605c1d188d054aaa2307dfb570af591fc7c97ee3769486a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0189_480x640.jpg",
+      "name": "picsum_0189_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "45e058206c75b5ce2bd3340edd1eb08fcefc6964e2a7675e290526ff23bb6ab9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0432_1200x1200.jpg",
+      "name": "picsum_0432_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "7ee943dad0ef8a40afcc5e37a1196504d214b7b36695328d03140b46f87bbf3b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0716_768x1024.jpg",
+      "name": "picsum_0716_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "1688fe1652aa70aa6f98b312c9f69296cee4cf0f38221a0812f17abf52cce97b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0890_1024x576.jpg",
+      "name": "picsum_0890_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "9b644137ad5a1eeaffe925c2743f8f6f50d028a339aa00e1e6d535da5b722e46",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0652_1000x1500.jpg",
+      "name": "picsum_0652_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "c1e66d5be4576e62b4c5905b55814038598f53bcd8e0d22aadecb2a4cd42eeaf",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0027_200x200.jpg",
+      "name": "picsum_0027_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "99515afdcf79f0614d958b120bc1caac3d9664c058e6761403c322c836fa8560",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0180_150x200.jpg",
+      "name": "picsum_0180_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "815c51da89ecb9130b3631a5903a71becac1833a98856d6a6392ea6ca8b187bd",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0533_1500x1000.jpg",
+      "name": "picsum_0533_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "b6f86c0703e4e9c2af2b79791c0a7b43f719e2ad43ace774fd21a28d02fe6611",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0036_300x100.jpg",
+      "name": "picsum_0036_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "c05f03af486f74cab67e153bc33e019e506dae36ca8d7b5c547fe30d5e137fad",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0727_2000x500.jpg",
+      "name": "picsum_0727_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "1114d0a90968f8b13f368a167b6f62811dbe76fbe7ad7dc1f15d433cc1f076e3",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0701_320x240.jpg",
+      "name": "picsum_0701_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "c20aeef2b25ea9a8599ec5cb048199a575d1a2b2d65892bb80a4cf056332c750",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0695_100x75.jpg",
+      "name": "picsum_0695_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "30cbec8f19c62f9084e2e1862bd0628cecdbdb2fee4d47bbe8bb5cbee25d8879",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0021_500x2000.jpg",
+      "name": "picsum_0021_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "0dbf934c707ec5c023c24ae991f1e7e3f9e6fff652faf33a39545e7baad82051",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0683_400x300.jpg",
+      "name": "picsum_0683_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "c87232ea581613c2ac0f5b79f163e82341d36d5b8038d6c371a542364b402792",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0130_500x375.jpg",
+      "name": "picsum_0130_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "c3dd19f4043e5fe403422456bbc382ac690e2f4eb31867d835a0958e5309e711",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0378_300x400.jpg",
+      "name": "picsum_0378_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "b0247b90edd41d6e238d96077f7f1974c7fc7358e1991123679eb30740813de4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0548_640x480.jpg",
+      "name": "picsum_0548_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "52b9b553489306b1d50561de82ed108d8e420a700488ca556811700e18e95270",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0922_480x640.jpg",
+      "name": "picsum_0922_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "3ca7d30ed430fc3cb8dfaa99f75d442862fbedbd2c8618694034e4d10a3ad28f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0517_640x640.jpg",
+      "name": "picsum_0517_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "c3815ae46332a77de31f0b229ef7df26f26815a8bdac2c7f86b6b3f92548ab6e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0600_240x320.jpg",
+      "name": "picsum_0600_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "da536013bb02b9fdeb99ca38ae3e837f890f75399db343d5dee0c8569ada3591",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0233_800x600.jpg",
+      "name": "picsum_0233_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "46500c958b39ca6c75ea81a4d272d87fec5768e39b238f247afd6202b0183355",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0861_600x800.jpg",
+      "name": "picsum_0861_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "0f1a2aaf730797cab8f3e3b48f1b4a943573a7077348f37be1d1dff9b341431d",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0451_800x450.jpg",
+      "name": "picsum_0451_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "d9a74cf14f9d749f27f330c3681bd3a16e48b5247f6df7936cffde8c8e2b8e63",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0237_1000x1500.jpg",
+      "name": "picsum_0237_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "235deb86790c715a026103c368eda59765f4e7a27960d54892cf29f594d493f8",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0684_1200x1200.jpg",
+      "name": "picsum_0684_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "ffd6a48afd84457b5ccb29dc89450a02e244b9e63cf3f27e41d175f20b945f86",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0704_150x200.jpg",
+      "name": "picsum_0704_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "6f42387e961462f4520aceeaec44d36b41e4bb2825968dbb5af297f523263782",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0959_1024x576.jpg",
+      "name": "picsum_0959_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "c437a7f995f4cd3dd9b7953159c85eb65ffe7f8bcec87bc27d5a5388c5855598",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1049_450x800.jpg",
+      "name": "picsum_1049_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "721fd3d05c7cfba10f0a533e5f77cfad1f7b51b428f2effea5d48d8083bd6ce1",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1031_320x240.jpg",
+      "name": "picsum_1031_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "48c479606c39ff0135fe1437f09fa9e070a65317fcbcd7bd7cdb4b72dd3f6db9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0525_200x200.jpg",
+      "name": "picsum_0525_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "8084a227d7ae4f19f788901b479d7abb089e260d745b7bb5e14b9d745f159a3b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0329_300x100.jpg",
+      "name": "picsum_0329_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "1f7aef7514e955f5b3b50fb26d0ef3b112571da3751a676cbb9963dee4db00de",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0607_768x1024.jpg",
+      "name": "picsum_0607_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "9e03f01d3e4a457793c11b97963bd79cb59718f7477b9c1a426040597154b1bb",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1026_400x300.jpg",
+      "name": "picsum_1026_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "85e2a586aca33571939fa0ffdc54e3b83fa938a5213d2d1d294afa3769ebf536",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0623_100x75.jpg",
+      "name": "picsum_0623_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "dc044d8819f9e2eb7dbe1b89753d9356b39cbfa64bb123d225bd9bd73414189a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0849_300x400.jpg",
+      "name": "picsum_0849_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "642e52fe8681fdf149500aa09834138d6f5f1b6577e4fd9d9e7529364dfdebd4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0240_500x375.jpg",
+      "name": "picsum_0240_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "a8449156559ea333217399f6732277f224333cdd976f1b3d89d8921de435140e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0927_1500x1000.jpg",
+      "name": "picsum_0927_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "d050b1cd509d1a93666fde838331ce6072a89a11eec8cfb03717d5b3f2160053",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0085_640x480.jpg",
+      "name": "picsum_0085_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "0974a09b56cf125b723ca43ef377543b2a00e764a86496a96b21d4d620de4892",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0775_2000x500.jpg",
+      "name": "picsum_0775_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "16d92f937fb15f1fac8a81ba8f06c1d7ffdffabec08d045796b27c6e0cd59034",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0875_800x450.jpg",
+      "name": "picsum_0875_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "ad3d03d22c3bee5cb1ec96cd70afed7e2dc0284fd939b850000ece339b93e874",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0892_800x600.jpg",
+      "name": "picsum_0892_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "f71fece465eab7da9cb25f7bc668e83c9d94321352e58bfd45a156acbfb8d783",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0633_240x320.jpg",
+      "name": "picsum_0633_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "ce465716ca8f763578aa44e67ed26b16acb4c956b77969f78cf7c591a602696e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0382_1024x576.jpg",
+      "name": "picsum_0382_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "876669d2366e2d24ce9c06ba23917ac7fe9bd45627ce3e9f2a98f593bd93e8ae",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0344_1024x768.jpg",
+      "name": "picsum_0344_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "43f37fadac70d393caf312ace333b213c36753201a3df39938e525dd0823fbc4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0428_1280x720.jpg",
+      "name": "picsum_0428_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "e781f148e0962cc576125f8d82a4fded890314f893a4b53367a09a5ea7b85126",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0173_640x640.jpg",
+      "name": "picsum_0173_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "26a5b550928229230e6b523084fa833b6557d459ebb2a68150ba27c6344cc30a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0250_768x1024.jpg",
+      "name": "picsum_0250_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "ae0aa400b55c6eee4966eae7eabb5372573a310276db86db6a7d2d4e3ba71dfa",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0015_450x800.jpg",
+      "name": "picsum_0015_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "2100d1c763e0489b03471c73f09fe19599062d35af363bb727bc758f41dbe02b",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0665_200x200.jpg",
+      "name": "picsum_0665_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "820cf61affa3ccee8344fc042a8566754f0bd8259a9249c1a422afb1082628b7",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0280_1000x1500.jpg",
+      "name": "picsum_0280_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "341c69188b9221e854e12f11d2b16ee88a55f6b52e4875e2b89e15e4cbdd0f74",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0181_100x75.jpg",
+      "name": "picsum_0181_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "c64ac188f87eabd969723037ad423d6bfd5e37f6e7735c28d1d82791b44342cd",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0973_2000x500.jpg",
+      "name": "picsum_0973_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "0eb6a8b01839e49ed529ed2f9f4a2891ce63433fd0526fdfb97f3df5b8f02612",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0507_320x240.jpg",
+      "name": "picsum_0507_320x240.jpg",
+      "width": 320,
+      "height": 240,
+      "sha256": "208c62143fd4222fa6d3eb727f22807445e1c2b01d3416940fa598c0f545be01",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0309_1500x1000.jpg",
+      "name": "picsum_0309_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "d46c36b027c02e25deef0acb4332fdd1af71294e451b7575dcc37cff4a909408",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0596_500x2000.jpg",
+      "name": "picsum_0596_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "e4cbb4a829e1e0ff80225f07d5372580c0ae989fcfb21e1668d3b11988b7f371",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0011_400x300.jpg",
+      "name": "picsum_0011_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "27ef5fc421b977215a09f4ef32fdf82126e66e329d0972430292ec67a937691c",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0537_240x320.jpg",
+      "name": "picsum_0537_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "77867ffe3b3b11a61a15fea4748d686fffb0ed51e341eb551e01165ee709ac13",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0677_150x200.jpg",
+      "name": "picsum_0677_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "62d9b155164bbaf358c4af7cf650fc033644e285adeb2b341437b1e764120eb3",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0425_300x400.jpg",
+      "name": "picsum_0425_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "665709dce5e32a78188aedc41da03c0694dec92805c5ac14e6bdfb2a230d16c9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0300_500x375.jpg",
+      "name": "picsum_0300_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "8a524880d8c7bf3d0ef847401eefb806450ea052634f6f45a5db008572a7194f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0200_640x480.jpg",
+      "name": "picsum_0200_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "0f063c17be77dff644e22b1f1213073a6d8da09d0d1ad959a8ce0f2953a89b34",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0582_640x640.jpg",
+      "name": "picsum_0582_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "3bd031642cbbf56fa812c18a73d644dba9e802b0813267d492fb2df0e3a1d4f5",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0276_1200x1200.jpg",
+      "name": "picsum_0276_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "012ab3bbdebf33a6940b26e733950fd3eaf68e5a5d17704346610468c2fefcbd",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0032_800x450.jpg",
+      "name": "picsum_0032_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "77c232fdcc959a70d9f0efc68c1b38f74cd15676a6ef057bcbc2f5ea06230a29",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0486_800x600.jpg",
+      "name": "picsum_0486_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "cb241091900d0707609cb0e6a250ea8467a7690feef754b0419e9119264cb2f7",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0278_600x800.jpg",
+      "name": "picsum_0278_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "737070de95e93e3424a89703b4eabf9c665fc19fe07b84541287bfd3c2074b57",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1016_1024x768.jpg",
+      "name": "picsum_1016_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "ad1e8c18cf8139a2fb6368102f252a1310569ff73f21f72422b3c3eff619f0c9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0783_1280x720.jpg",
+      "name": "picsum_0783_1280x720.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "3e5ce643bc05da7a1bc0a1848753b63d03712613905b8f4af65016b661be8e66",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0508_1500x1000.jpg",
+      "name": "picsum_0508_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "37b4e39f79df0736dcbecb9fa4659f1631f636311ef5d0f9732ae70fdab20a2f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0510_480x640.jpg",
+      "name": "picsum_0510_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "de1ae6730aa3e9a15bcb01c3b4287ef08c278ab6bd8e81179cf0b729ee6d2f6a",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0821_1024x576.jpg",
+      "name": "picsum_0821_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "ff17f6fd88a7724a34035c3ebd64968fac3dd0f446ec413e945b2177aba12268",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0443_450x800.jpg",
+      "name": "picsum_0443_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "3f5d42142e1e39289df5adf507f589ac3f80a55f9f6ebc66e1eeb595a011cbc1",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0362_1000x1500.jpg",
+      "name": "picsum_0362_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "b5ac8eec78a9155dd208e3219750e9fae49090a521b9612250774fcbbebc75d3",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0532_300x100.jpg",
+      "name": "picsum_0532_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "2114a40b0932da1e9f8b4e5ff40cbcf72995a5ad3ee0b0906bb5fb5b7ba5a3d9",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0770_500x2000.jpg",
+      "name": "picsum_0770_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "52eb909f7ff61642b0fd096ca2c519623a25afa1d53dcb3e2c59b81188db912c",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0930_100x75.jpg",
+      "name": "picsum_0930_100x75.jpg",
+      "width": 100,
+      "height": 75,
+      "sha256": "cf18a0226e79b54a2ce070b6c845985adfe207932aec738c55f38fd845215af4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0780_768x1024.jpg",
+      "name": "picsum_0780_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "08739cf64516914e126f35a0b980b68a6f8005ff3088ddea088eeae927cbef31",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0626_240x320.jpg",
+      "name": "picsum_0626_240x320.jpg",
+      "width": 240,
+      "height": 320,
+      "sha256": "cf55871057745f476c274e814d80ef2fc2451874f4a0393830a03b7e3928c989",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0042_200x200.jpg",
+      "name": "picsum_0042_200x200.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "3ced29382e50442d9d42477ffdb7208b27147266248537f7e3cd834cc445e8bc",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0467_400x300.jpg",
+      "name": "picsum_0467_400x300.jpg",
+      "width": 400,
+      "height": 300,
+      "sha256": "ef9db5400612cef9249078af83c1613f11842ccfe17c8b39369adfc05ac4fdf1",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0140_300x400.jpg",
+      "name": "picsum_0140_300x400.jpg",
+      "width": 300,
+      "height": 400,
+      "sha256": "f9e9b60f0f68ce95c97a6dc74a9bc4d926ce37c4c2f469c90e1be94d5261b3c1",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0504_500x375.jpg",
+      "name": "picsum_0504_500x375.jpg",
+      "width": 500,
+      "height": 375,
+      "sha256": "a9e5a1c65b328e83c0da898b84f72ad802f2bdad426a69f902728ca435331566",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0356_2000x500.jpg",
+      "name": "picsum_0356_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "3f2cbbbaafe4d24d7d8576c6dd8f6603375314e3716ea1d42365c7cd0f916482",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0366_480x640.jpg",
+      "name": "picsum_0366_480x640.jpg",
+      "width": 480,
+      "height": 640,
+      "sha256": "3ebf40ec8c8ac8993b7e29c65c95110b75438e090a88e4a6601c4c9bb6c59c07",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0494_640x480.jpg",
+      "name": "picsum_0494_640x480.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "cce5ad3698928125421be0dca9736c16686d430fc7253de30e13ebbba716db58",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_1001_150x200.jpg",
+      "name": "picsum_1001_150x200.jpg",
+      "width": 150,
+      "height": 200,
+      "sha256": "653795729df2d39200796b30d9f3de853b4f501a7a1f0a340847ea36bffa0c44",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0079_1200x1200.jpg",
+      "name": "picsum_0079_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "d352aacaf86ac272f8aeff39e6a34db4051490f76f6dc9b9253179cb47c017e2",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0791_800x450.jpg",
+      "name": "picsum_0791_800x450.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "18cf0e2bc44310c08b52d0787a088ae4141a013a2e1ebca898e9697e9986f587",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0321_600x800.jpg",
+      "name": "picsum_0321_600x800.jpg",
+      "width": 600,
+      "height": 800,
+      "sha256": "40d694dfdfacc5b3ec5b9d1c4961a0aa3ac119b323b22e4dcc7bbdaa0512a700",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0681_800x600.jpg",
+      "name": "picsum_0681_800x600.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "6bfb103f53962a7af36da5877700afe6c430928b22605ee4b59039108ab91fde",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0267_1024x768.jpg",
+      "name": "picsum_0267_1024x768.jpg",
+      "width": 1024,
+      "height": 768,
+      "sha256": "0601378c7a4afff6b48475fccc4b325f83157f647fc5e4a96719e27b47f1dbfe",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0909_768x1024.jpg",
+      "name": "picsum_0909_768x1024.jpg",
+      "width": 768,
+      "height": 1024,
+      "sha256": "bac7b45a8bf6a5dff23ef203b817867252f938fec578cc6a3b19f47641bfa4f8",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0539_640x640.jpg",
+      "name": "picsum_0539_640x640.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "3077ab4f700e27d96860ed767c8f339b17426e834a317e8f7cec5a6daf626599",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0133_1200x1200.jpg",
+      "name": "picsum_0133_1200x1200.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "44ad7b5c3cd65404263f70f750554a75efb75dcba56988ea9c3e271025ad78cb",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0141_450x800.jpg",
+      "name": "picsum_0141_450x800.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "9d5214aea2108804c531536dfc535aa62f0e40bcf7c2cbf223e1077d52ec1707",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0768_1024x576.jpg",
+      "name": "picsum_0768_1024x576.jpg",
+      "width": 1024,
+      "height": 576,
+      "sha256": "4d74915397dde63c95c73ac0a09b1958b2e5b81ced578976c3c0a3a79442da35",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0604_500x2000.jpg",
+      "name": "picsum_0604_500x2000.jpg",
+      "width": 500,
+      "height": 2000,
+      "sha256": "d2773ca0f532841f22e1fbf99625b0783b9b98687eead4860fb4411fe1a075e4",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0381_300x100.jpg",
+      "name": "picsum_0381_300x100.jpg",
+      "width": 300,
+      "height": 100,
+      "sha256": "f28c595b65d802d31d5693bfe947fdcf34ccea8649d7bd890fc8699362f6988f",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0127_1500x1000.jpg",
+      "name": "picsum_0127_1500x1000.jpg",
+      "width": 1500,
+      "height": 1000,
+      "sha256": "9c3268c98e455babd8dd0f2d5ff521e0028173b848327d8e8da788674fa7f4f1",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0799_2000x500.jpg",
+      "name": "picsum_0799_2000x500.jpg",
+      "width": 2000,
+      "height": 500,
+      "sha256": "b81804de7c07f66c3d869a1fae3dfa4d635230c8d2f6467a4303401617edf27e",
+      "cached": false
+    },
+    {
+      "file": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/data/bench_photos/picsum_0998_1000x1500.jpg",
+      "name": "picsum_0998_1000x1500.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "0a7e9bedac30850948a08633f78a33d560dc4542754c98e920cfe16c1f4dc0d3",
+      "cached": false
+    }
+  ]
+}

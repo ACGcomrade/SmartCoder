@@ -20,5 +20,9 @@ artifacts/stream_demo/*/recovered/
 # Synthetic test canvases — re-generatable
 artifacts/stream_demo/*/synthetic_*/
 
+# Benchmark photos — downloadable via download_bench_photos.py
+data/bench_photos/
+data/coco_cache/
+
 # macOS
 .DS_Store
