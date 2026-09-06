@@ -1,0 +1,8 @@
+[
+  {"name":"Astronaut", "file":"astronaut.png", "expected_sha256":"88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5", "license_note":"NASA Eileen Collins portrait, public domain per scikit-image"},
+  {"name":"Camera", "file":"camera.png", "expected_sha256":"b0793d2adda0fa6ae899c03989482bff9a42d3d5690fc7e3648f2795d730c23a", "license_note":"Lav Varshney, CC0 per scikit-image"},
+  {"name":"Brick wall", "file":"brick.png", "expected_sha256":"7966caf324f6ba843118d98f7a07746d22f6a343430add0233eca5f6eaaa8fcf", "license_note":"CC0Textures, CC0; upstream transformed/cropped sample, no additional resizing in this experiment"},
+  {"name":"Grass", "file":"grass.png", "expected_sha256":"b6b6022426b38936c43a4ac09635cd78af074e90f42ffa8227ac8b7452d39f89", "license_note":"DeviantArt source, CC0 per scikit-image; upstream cropped/grayscale sample, no additional resizing in this experiment"},
+  {"name":"Gravel", "file":"gravel.png", "expected_sha256":"c48615b451bf1e606fbd72c0aa9f8cc0f068ab7111ef7d93bb9b0f2586440c12", "license_note":"CC0Textures, CC0 per scikit-image"},
+  {"name":"Microscopy IHC", "file":"ihc.png", "expected_sha256":"f8dd1aa387ddd1f49d8ad13b50921b237df8e9b262606d258770687b0ef93cef", "license_note":"CMMI, no known copyright restrictions per scikit-image"}
+]

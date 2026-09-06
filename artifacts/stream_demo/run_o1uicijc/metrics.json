@@ -1,0 +1,1284 @@
+{
+  "version": "0.4.0",
+  "date": "2026-09-06",
+  "out": "/Volumes/ACGcomrade_entelechy/kaiForever/SmartCoder/artifacts/stream_demo/run_o1uicijc",
+  "hypotheses": {
+    "S1": "PASS",
+    "S2": "PASS",
+    "S3": "PASS",
+    "S4": "PASS",
+    "S5": "PASS",
+    "S6": "PASS",
+    "S7": "PASS"
+  },
+  "photos": [
+    {
+      "name": "Grace Hopper",
+      "shape": [
+        600,
+        512
+      ],
+      "field": 0,
+      "prime": 4099,
+      "max_error": 2,
+      "mse": 1.5026095920138889,
+      "psnr_db": 46.36234204005988
+    },
+    {
+      "name": "Chelsea cat",
+      "shape": [
+        300,
+        451
+      ],
+      "field": 0,
+      "prime": 4099,
+      "max_error": 2,
+      "mse": 1.4991648189209166,
+      "psnr_db": 46.37230978844877
+    },
+    {
+      "name": "Coffee",
+      "shape": [
+        400,
+        600
+      ],
+      "field": 1,
+      "prime": 4111,
+      "max_error": 2,
+      "mse": 1.4997208333333334,
+      "psnr_db": 46.37069936363143
+    },
+    {
+      "name": "Rocket",
+      "shape": [
+        427,
+        640
+      ],
+      "field": 1,
+      "prime": 4111,
+      "max_error": 2,
+      "mse": 1.5041032396565184,
+      "psnr_db": 46.358027141905126
+    },
+    {
+      "name": "Hubble deep field",
+      "shape": [
+        872,
+        1000
+      ],
+      "field": 2,
+      "prime": 4127,
+      "max_error": 2,
+      "mse": 1.5121961009174312,
+      "psnr_db": 46.334722469355384
+    },
+    {
+      "name": "Coins",
+      "shape": [
+        303,
+        384
+      ],
+      "field": 2,
+      "prime": 4127,
+      "max_error": 2,
+      "mse": 1.4927203657865786,
+      "psnr_db": 46.391019027545816
+    },
+    {
+      "name": "Astronaut",
+      "shape": [
+        512,
+        512
+      ],
+      "field": 3,
+      "prime": 4129,
+      "max_error": 2,
+      "mse": 1.7440948486328125,
+      "psnr_db": 45.715102615111824
+    },
+    {
+      "name": "Camera",
+      "shape": [
+        512,
+        512
+      ],
+      "field": 3,
+      "prime": 4129,
+      "max_error": 2,
+      "mse": 1.5137443542480469,
+      "psnr_db": 46.33027824484592
+    },
+    {
+      "name": "Brick wall",
+      "shape": [
+        512,
+        512
+      ],
+      "field": 4,
+      "prime": 4133,
+      "max_error": 2,
+      "mse": 1.5096092224121094,
+      "psnr_db": 46.34215820537708
+    },
+    {
+      "name": "Grass",
+      "shape": [
+        512,
+        512
+      ],
+      "field": 4,
+      "prime": 4133,
+      "max_error": 2,
+      "mse": 1.4947547912597656,
+      "psnr_db": 46.385104066938744
+    },
+    {
+      "name": "Gravel",
+      "shape": [
+        512,
+        512
+      ],
+      "field": 5,
+      "prime": 4139,
+      "max_error": 2,
+      "mse": 1.5000190734863281,
+      "psnr_db": 46.3698357950743
+    },
+    {
+      "name": "Microscopy IHC",
+      "shape": [
+        512,
+        512
+      ],
+      "field": 5,
+      "prime": 4139,
+      "max_error": 2,
+      "mse": 1.5144767761230469,
+      "psnr_db": 46.32817742874798
+    }
+  ],
+  "sources": [
+    {
+      "name": "Grace Hopper",
+      "file": "grace_hopper.jpg",
+      "url": "https://raw.githubusercontent.com/matplotlib/matplotlib/v3.10.0/lib/matplotlib/mpl-data/sample_data/grace_hopper.jpg",
+      "license_note": "US Navy official portrait by James S. Davis, public domain; Matplotlib sample variant",
+      "source_page": "https://en.wikisource.org/wiki/File:Grace_Hopper.jpg",
+      "expected_sha256": "a8ca6d734765703b09728ab47fe59f473d93ae3967fc24c7c0288c3c7adb7130",
+      "hash_origin": "Downloaded 2026-09-06 and locally pinned; not a publisher-supplied checksum",
+      "actual_sha256": "a8ca6d734765703b09728ab47fe59f473d93ae3967fc24c7c0288c3c7adb7130",
+      "source_mode": "RGB",
+      "shape": [
+        600,
+        512
+      ],
+      "file_bytes": 61306
+    },
+    {
+      "name": "Chelsea cat",
+      "file": "chelsea.png",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/chelsea.png",
+      "license_note": "Stefan van der Walt, CC0 per scikit-image",
+      "expected_sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+      "source_mode": "RGB",
+      "shape": [
+        300,
+        451
+      ],
+      "file_bytes": 240512
+    },
+    {
+      "name": "Coffee",
+      "file": "coffee.png",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/coffee.png",
+      "license_note": "Rachel Michetti, CC0 per scikit-image",
+      "expected_sha256": "cc02f8ca188b167c775a7101b5d767d1e71792cf762c33d6fa15a4599b5a8de7",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "cc02f8ca188b167c775a7101b5d767d1e71792cf762c33d6fa15a4599b5a8de7",
+      "source_mode": "RGB",
+      "shape": [
+        400,
+        600
+      ],
+      "file_bytes": 466706
+    },
+    {
+      "name": "Rocket",
+      "file": "rocket.jpg",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/rocket.jpg",
+      "license_note": "SpaceX, public domain per scikit-image",
+      "expected_sha256": "c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c",
+      "source_mode": "RGB",
+      "shape": [
+        427,
+        640
+      ],
+      "file_bytes": 112525
+    },
+    {
+      "name": "Hubble deep field",
+      "file": "hubble_deep_field.jpg",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/hubble_deep_field.jpg",
+      "license_note": "NASA, public domain per scikit-image",
+      "expected_sha256": "3a19c5dd8a927a9334bb1229a6d63711b1c0c767fb27e2286e7c84a3e2c2f5f4",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "3a19c5dd8a927a9334bb1229a6d63711b1c0c767fb27e2286e7c84a3e2c2f5f4",
+      "source_mode": "RGB",
+      "shape": [
+        872,
+        1000
+      ],
+      "file_bytes": 527940
+    },
+    {
+      "name": "Coins",
+      "file": "coins.png",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/coins.png",
+      "license_note": "Brooklyn Museum, no known copyright restrictions per scikit-image",
+      "expected_sha256": "f8d773fc9cfa6f4d8e5942dc34d0a0788fcaed2a4fefbbed0aef5398d7ef4cba",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "f8d773fc9cfa6f4d8e5942dc34d0a0788fcaed2a4fefbbed0aef5398d7ef4cba",
+      "source_mode": "L",
+      "shape": [
+        303,
+        384
+      ],
+      "file_bytes": 75825
+    },
+    {
+      "name": "Astronaut",
+      "file": "astronaut.png",
+      "expected_sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+      "license_note": "NASA Eileen Collins portrait, public domain per scikit-image",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/astronaut.png",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+      "source_mode": "RGB",
+      "shape": [
+        512,
+        512
+      ],
+      "file_bytes": 791555
+    },
+    {
+      "name": "Camera",
+      "file": "camera.png",
+      "expected_sha256": "b0793d2adda0fa6ae899c03989482bff9a42d3d5690fc7e3648f2795d730c23a",
+      "license_note": "Lav Varshney, CC0 per scikit-image",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/camera.png",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "b0793d2adda0fa6ae899c03989482bff9a42d3d5690fc7e3648f2795d730c23a",
+      "source_mode": "L",
+      "shape": [
+        512,
+        512
+      ],
+      "file_bytes": 139512
+    },
+    {
+      "name": "Brick wall",
+      "file": "brick.png",
+      "expected_sha256": "7966caf324f6ba843118d98f7a07746d22f6a343430add0233eca5f6eaaa8fcf",
+      "license_note": "CC0Textures, CC0; upstream transformed/cropped sample, no additional resizing in this experiment",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/brick.png",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "7966caf324f6ba843118d98f7a07746d22f6a343430add0233eca5f6eaaa8fcf",
+      "source_mode": "L",
+      "shape": [
+        512,
+        512
+      ],
+      "file_bytes": 106634
+    },
+    {
+      "name": "Grass",
+      "file": "grass.png",
+      "expected_sha256": "b6b6022426b38936c43a4ac09635cd78af074e90f42ffa8227ac8b7452d39f89",
+      "license_note": "DeviantArt source, CC0 per scikit-image; upstream cropped/grayscale sample, no additional resizing in this experiment",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/grass.png",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "b6b6022426b38936c43a4ac09635cd78af074e90f42ffa8227ac8b7452d39f89",
+      "source_mode": "L",
+      "shape": [
+        512,
+        512
+      ],
+      "file_bytes": 217893
+    },
+    {
+      "name": "Gravel",
+      "file": "gravel.png",
+      "expected_sha256": "c48615b451bf1e606fbd72c0aa9f8cc0f068ab7111ef7d93bb9b0f2586440c12",
+      "license_note": "CC0Textures, CC0 per scikit-image",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/gravel.png",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "c48615b451bf1e606fbd72c0aa9f8cc0f068ab7111ef7d93bb9b0f2586440c12",
+      "source_mode": "L",
+      "shape": [
+        512,
+        512
+      ],
+      "file_bytes": 194247
+    },
+    {
+      "name": "Microscopy IHC",
+      "file": "ihc.png",
+      "expected_sha256": "f8dd1aa387ddd1f49d8ad13b50921b237df8e9b262606d258770687b0ef93cef",
+      "license_note": "CMMI, no known copyright restrictions per scikit-image",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/ihc.png",
+      "source_page": "https://scikit-image.org/docs/stable/api/skimage.data.html",
+      "actual_sha256": "f8dd1aa387ddd1f49d8ad13b50921b237df8e9b262606d258770687b0ef93cef",
+      "source_mode": "RGB",
+      "shape": [
+        512,
+        512
+      ],
+      "file_bytes": 477916
+    }
+  ],
+  "growth": [
+    {
+      "photos": 2,
+      "fields": 1,
+      "new_prime": 4099,
+      "modulus_bits": 13,
+      "append_old_tile_reads": 0,
+      "append_old_tile_writes": 0
+    },
+    {
+      "photos": 4,
+      "fields": 2,
+      "new_prime": 4111,
+      "modulus_bits": 25,
+      "append_old_tile_reads": 0,
+      "append_old_tile_writes": 0
+    },
+    {
+      "photos": 6,
+      "fields": 3,
+      "new_prime": 4127,
+      "modulus_bits": 37,
+      "append_old_tile_reads": 0,
+      "append_old_tile_writes": 0
+    },
+    {
+      "photos": 8,
+      "fields": 4,
+      "new_prime": 4129,
+      "modulus_bits": 49,
+      "append_old_tile_reads": 0,
+      "append_old_tile_writes": 0
+    },
+    {
+      "photos": 10,
+      "fields": 5,
+      "new_prime": 4133,
+      "modulus_bits": 61,
+      "append_old_tile_reads": 0,
+      "append_old_tile_writes": 0
+    },
+    {
+      "photos": 12,
+      "fields": 6,
+      "new_prime": 4139,
+      "modulus_bits": 73,
+      "append_old_tile_reads": 0,
+      "append_old_tile_writes": 0
+    }
+  ],
+  "local_updates": [
+    {
+      "photo": 0,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475688,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 1,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475685,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 2,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475682,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 3,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475690,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 4,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475691,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 5,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475688,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 6,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475688,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 7,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475691,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 8,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475679,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 9,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475691,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 10,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475684,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    },
+    {
+      "photo": 11,
+      "stats": {
+        "metadata_read_bytes": 0,
+        "tile_reads": 4,
+        "tile_writes": 4,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 475673,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "changed_tiles": [
+        "0_0.bin",
+        "0_1.bin",
+        "1_0.bin",
+        "1_1.bin"
+      ]
+    }
+  ],
+  "runtime": {
+    "python": "3.9.6 (default, Oct 17 2025, 17:15:53) \n[Clang 17.0.0 (clang-1700.4.4.1)]",
+    "numpy": "2.0.2",
+    "pillow": "11.3.0"
+  },
+  "encoding_seconds": 6.572369,
+  "independent_recovery": {
+    "mode": "recover",
+    "baseline_peak_bytes": 36159488,
+    "peak_rss_bytes": 47153152,
+    "highwater_increase_bytes": 10993664,
+    "seconds": 2.075364125,
+    "checksum": "a0730ae7c466c2350d686cd4612120f8ce49506d5ad6a387c78a4bea9e3b5315",
+    "stats": {
+      "metadata_read_bytes": 589,
+      "tile_reads": 566,
+      "tile_writes": 0,
+      "file_read_bytes": 47146904,
+      "file_write_bytes": 0,
+      "raw_read_bytes": 57876480,
+      "max_active_cells": 12288,
+      "lifted_cells": 0
+    },
+    "source_guard": true,
+    "network_guard": true,
+    "packed_buffer_bytes": 0
+  },
+  "ram": [
+    {
+      "mode": "open",
+      "baseline_peak_bytes": 36405248,
+      "peak_rss_bytes": 36405248,
+      "highwater_increase_bytes": 0,
+      "seconds": 0.00017099999999997673,
+      "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 0,
+        "tile_writes": 0,
+        "file_read_bytes": 0,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 0,
+        "max_active_cells": 0,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 0
+    },
+    {
+      "mode": "roi",
+      "baseline_peak_bytes": 36225024,
+      "peak_rss_bytes": 36225024,
+      "highwater_increase_bytes": 0,
+      "seconds": 0.0021527919999999867,
+      "checksum": "84edd45f3af8e87ec643fb516512b3323ff5462b24a5b56fc903d56716313846",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 1,
+        "tile_writes": 0,
+        "file_read_bytes": 118917,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 122880,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 0
+    },
+    {
+      "mode": "boundary",
+      "baseline_peak_bytes": 36257792,
+      "peak_rss_bytes": 36519936,
+      "highwater_increase_bytes": 262144,
+      "seconds": 0.007047499999999984,
+      "checksum": "c77483b2056f36870fbef0588dcb4b2890b3d7ef93981a7b065e96ba9585c7f0",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 4,
+        "tile_writes": 0,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 0
+    },
+    {
+      "mode": "stream",
+      "baseline_peak_bytes": 36257792,
+      "peak_rss_bytes": 36290560,
+      "highwater_increase_bytes": 32768,
+      "seconds": 0.244348417,
+      "checksum": "f00c3eafc70732895bf5107e9e65b1bf7845f237a594d2d0085f488778e3078a",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 80,
+        "tile_writes": 0,
+        "file_read_bytes": 7838569,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 8847360,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 0
+    },
+    {
+      "mode": "eager",
+      "baseline_peak_bytes": 36290560,
+      "peak_rss_bytes": 67764224,
+      "highwater_increase_bytes": 31473664,
+      "seconds": 1.223852209,
+      "checksum": "84edd45f3af8e87ec643fb516512b3323ff5462b24a5b56fc903d56716313846",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 224,
+        "tile_writes": 0,
+        "file_read_bytes": 9437205,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 17694720,
+        "max_active_cells": 12288,
+        "lifted_cells": 1966080
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 27525120,
+      "repeat": 0
+    },
+    {
+      "mode": "open",
+      "baseline_peak_bytes": 36241408,
+      "peak_rss_bytes": 36241408,
+      "highwater_increase_bytes": 0,
+      "seconds": 0.00015291600000000294,
+      "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 0,
+        "tile_writes": 0,
+        "file_read_bytes": 0,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 0,
+        "max_active_cells": 0,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 1
+    },
+    {
+      "mode": "roi",
+      "baseline_peak_bytes": 36421632,
+      "peak_rss_bytes": 36421632,
+      "highwater_increase_bytes": 0,
+      "seconds": 0.0020922919999999956,
+      "checksum": "84edd45f3af8e87ec643fb516512b3323ff5462b24a5b56fc903d56716313846",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 1,
+        "tile_writes": 0,
+        "file_read_bytes": 118917,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 122880,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 1
+    },
+    {
+      "mode": "boundary",
+      "baseline_peak_bytes": 36372480,
+      "peak_rss_bytes": 36634624,
+      "highwater_increase_bytes": 262144,
+      "seconds": 0.00814920899999999,
+      "checksum": "c77483b2056f36870fbef0588dcb4b2890b3d7ef93981a7b065e96ba9585c7f0",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 4,
+        "tile_writes": 0,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 1
+    },
+    {
+      "mode": "stream",
+      "baseline_peak_bytes": 36503552,
+      "peak_rss_bytes": 36503552,
+      "highwater_increase_bytes": 0,
+      "seconds": 0.26538408300000005,
+      "checksum": "f00c3eafc70732895bf5107e9e65b1bf7845f237a594d2d0085f488778e3078a",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 80,
+        "tile_writes": 0,
+        "file_read_bytes": 7838569,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 8847360,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 1
+    },
+    {
+      "mode": "eager",
+      "baseline_peak_bytes": 36438016,
+      "peak_rss_bytes": 67059712,
+      "highwater_increase_bytes": 30621696,
+      "seconds": 1.174346792,
+      "checksum": "84edd45f3af8e87ec643fb516512b3323ff5462b24a5b56fc903d56716313846",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 224,
+        "tile_writes": 0,
+        "file_read_bytes": 9437205,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 17694720,
+        "max_active_cells": 12288,
+        "lifted_cells": 1966080
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 27525120,
+      "repeat": 1
+    },
+    {
+      "mode": "open",
+      "baseline_peak_bytes": 36225024,
+      "peak_rss_bytes": 36225024,
+      "highwater_increase_bytes": 0,
+      "seconds": 0.00018804199999999938,
+      "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 0,
+        "tile_writes": 0,
+        "file_read_bytes": 0,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 0,
+        "max_active_cells": 0,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 2
+    },
+    {
+      "mode": "roi",
+      "baseline_peak_bytes": 36225024,
+      "peak_rss_bytes": 36225024,
+      "highwater_increase_bytes": 0,
+      "seconds": 0.0023480000000000167,
+      "checksum": "84edd45f3af8e87ec643fb516512b3323ff5462b24a5b56fc903d56716313846",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 1,
+        "tile_writes": 0,
+        "file_read_bytes": 118917,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 122880,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 2
+    },
+    {
+      "mode": "boundary",
+      "baseline_peak_bytes": 36241408,
+      "peak_rss_bytes": 36487168,
+      "highwater_increase_bytes": 245760,
+      "seconds": 0.007721875000000017,
+      "checksum": "c77483b2056f36870fbef0588dcb4b2890b3d7ef93981a7b065e96ba9585c7f0",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 4,
+        "tile_writes": 0,
+        "file_read_bytes": 475681,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 491520,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 2
+    },
+    {
+      "mode": "stream",
+      "baseline_peak_bytes": 36257792,
+      "peak_rss_bytes": 36306944,
+      "highwater_increase_bytes": 49152,
+      "seconds": 0.2488595,
+      "checksum": "f00c3eafc70732895bf5107e9e65b1bf7845f237a594d2d0085f488778e3078a",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 80,
+        "tile_writes": 0,
+        "file_read_bytes": 7838569,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 8847360,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "repeat": 2
+    },
+    {
+      "mode": "eager",
+      "baseline_peak_bytes": 36208640,
+      "peak_rss_bytes": 66977792,
+      "highwater_increase_bytes": 30769152,
+      "seconds": 1.220804375,
+      "checksum": "84edd45f3af8e87ec643fb516512b3323ff5462b24a5b56fc903d56716313846",
+      "stats": {
+        "metadata_read_bytes": 589,
+        "tile_reads": 224,
+        "tile_writes": 0,
+        "file_read_bytes": 9437205,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 17694720,
+        "max_active_cells": 12288,
+        "lifted_cells": 1966080
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 27525120,
+      "repeat": 2
+    }
+  ],
+  "synthetic": [
+    {
+      "mode": "roi",
+      "baseline_peak_bytes": 36438016,
+      "peak_rss_bytes": 36438016,
+      "highwater_increase_bytes": 0,
+      "seconds": 0.0022013750000000054,
+      "checksum": "27d25c052a15650e6f9814dd179703e540284d30d279f23267cd3de2b8b7189d",
+      "stats": {
+        "metadata_read_bytes": 588,
+        "tile_reads": 1,
+        "tile_writes": 0,
+        "file_read_bytes": 2028,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 122880,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "canvas_pixels": [
+        512,
+        512
+      ],
+      "dense_logical_bytes": 7864320
+    },
+    {
+      "mode": "roi",
+      "baseline_peak_bytes": 36257792,
+      "peak_rss_bytes": 36257792,
+      "highwater_increase_bytes": 0,
+      "seconds": 0.0017687500000000134,
+      "checksum": "27d25c052a15650e6f9814dd179703e540284d30d279f23267cd3de2b8b7189d",
+      "stats": {
+        "metadata_read_bytes": 612,
+        "tile_reads": 1,
+        "tile_writes": 0,
+        "file_read_bytes": 2028,
+        "file_write_bytes": 0,
+        "raw_read_bytes": 122880,
+        "max_active_cells": 12288,
+        "lifted_cells": 0
+      },
+      "source_guard": true,
+      "network_guard": true,
+      "packed_buffer_bytes": 0,
+      "canvas_pixels": [
+        2048,
+        2048
+      ],
+      "dense_logical_bytes": 125829120
+    }
+  ],
+  "roi_delta_median": 0,
+  "eager_delta_median": 30769152,
+  "shape": [
+    872,
+    3000
+  ],
+  "fields": 6,
+  "primes": [
+    4099,
+    4111,
+    4127,
+    4129,
+    4133,
+    4139
+  ],
+  "modulus": "4912081665535450461269",
+  "cell_bytes": 10,
+  "disk_tile_bytes": 9437205,
+  "metadata_bytes": 589,
+  "dense_current_schema_bytes": 26160000,
+  "rgb_input_bytes": 10550988,
+  "direct_oracle_samples": 1000,
+  "bundle_tile_hashes": {
+    "11_4.bin": "39516dee18eb2c16eebf81ca07e8128992950d66644214262deb36b9c6bca50c",
+    "3_9.bin": "2577d1a4b20b30a69fefaade3f07aee9e2def33b1716eeb1fd13cc067a3faace",
+    "13_6.bin": "1ebeb04484e46cfbfd6ca7f81d16d96b9fd3e9be6b752c8b17e897aa4a032a17",
+    "9_2.bin": "1341c78acf61c8a02a9cf4f16ac529666310f1c5a9f450d4f8764fc91aa80adc",
+    "1_12.bin": "7b30042070fb9ba34d56bb2f923a00ab6f0ad1c097e7aa9c64aa393180cff3e7",
+    "1_13.bin": "280c82fc19e3a96aa612fec0e40389880e330b8097cfc346046f78d51d3e6e4d",
+    "9_3.bin": "c8775a329a3d80695b37283fe93566161d3a3eeacda2ad3cbab9eec53143ce36",
+    "13_7.bin": "6bb2651214e30c66158fe7aa9ae863d3279d2aebc0cab95cea758e3e4689fa7c",
+    "3_8.bin": "0ecfc205f6cd9bdaf1152047a25e8465c68f08a7e891072d9d011951838b3320",
+    "11_5.bin": "4f24ca8bd46540797f6423ac58c407bf86f0062ff0c77d4295e2a3835296246e",
+    "11_7.bin": "58b4284cfa8fa1b53eede4550ed17f34c42e284926413abe42dbb20628d87fd6",
+    "3_14.bin": "7c405712b0953acaaf71feceeff10126b7161af393b990871f96fa5530329c65",
+    "13_5.bin": "b595bef5cd9275205c001d3eba76152d41366409cf4b36f24b2813732b1cc042",
+    "1_8.bin": "e84e10546698894a8a0f773368a5f1ea574b5127d9abd0d2060a100792d22490",
+    "1_11.bin": "51c87d8ddb1e7288f188324aafc2bde5141420846478541a002c6787317adf71",
+    "9_1.bin": "3093a46a3d24ba1fc60ac1376fd266647564793580472f3f444534630ec92217",
+    "9_0.bin": "79d6eadd25530785145962381b4ada1514f31116a7ebe9fa7a2c008eb6cb91fa",
+    "1_10.bin": "76cdf27b4188e16c0433c988927c7fceaa01605277588ffb0af5b7973e360d38",
+    "1_9.bin": "e2141f3137026b1267f9c0196634fdc7efb6df25399efd6e79bc5aff1b6a36ad",
+    "13_4.bin": "7e38f0e971aa3f1f5897f406cdf16ba77c2008a56a94f6fe3ec3c7f862e8cb6f",
+    "3_15.bin": "2ec5d5c1d59cd34c17e631d75d8e63d0f5f5bf0276f615eb8be9a529637b0a0b",
+    "11_6.bin": "234c797b397f80c357082597028b45180758ce1812ef06f7373d1f93d5774a58",
+    "11_2.bin": "18873178452c16b48c9aa2d991e9c68b5d233d397274d6f087364e382fcf8cda",
+    "13_0.bin": "50f5fc4257c3e987ec2c389ba0ddfb36a0d452972197d4b689e3042e7c2458e5",
+    "3_11.bin": "690eba49ca40db5a5d906614db862432bb15e5891ecfc24a88c839d2e36a1d2c",
+    "1_14.bin": "86d8b6bc7225bd814cac55e14d42293e7c648428dcd6d59ff2d25e785cdee74d",
+    "9_4.bin": "e34fe5fa13a58374e373694363dd810c5a6f03390b8830896a0245036d4a47d5",
+    "5_9.bin": "cb1f3c0516cc9d6692d77d7f7bb915cd155659658d04ffe47ff323b322c1d3f2",
+    "5_8.bin": "8341a969266f5c742b5f167b2db318a834bb44bb30d8759cff56b56c800be609",
+    "9_5.bin": "ed992110df31f4d021ee07e7f509f103d4909dd50f19e38249f4641d16214d71",
+    "1_15.bin": "d11c15cd9fddfad1ec0b7cde747947c3ca2904bb21d395889d3dc094907c75b6",
+    "3_10.bin": "3c3fd728dd8e1df11f085b13fa6aa77e7b6a6635ec8c7c526a4b33c8bf58996e",
+    "13_1.bin": "6db69cdf0642988e6760b432af55a26fab6da6fefbaae6bf10f5a9b80e3f5b7a",
+    "11_3.bin": "e5445a91b2004805ced281f654b5e0f78469bfec20fbcda1e0c36a0db0ce4986",
+    "11_1.bin": "298ff5f3adecddbc2110bf7f5424af29a0d5e249e4cb85d65f510aa7e3763faa",
+    "13_3.bin": "6e1cc4d3db2884b5b506502f07d7fdbcbb4a3fb52cd91d5b2874cdefc4f07317",
+    "3_12.bin": "0ad18feda871d44f20542767b33f99b384bef7df8a1d1133c3fe1c22e18f4d81",
+    "9_7.bin": "07d09cfd9cb2b1c07517d2462974d7d7f2dc3602ec2fe0f0d25d701a033a405e",
+    "7_8.bin": "0d9b1b185dc469295dc835ad53bb5ec805672ff378b6ab91aecd318856d1a072",
+    "7_9.bin": "ae3478f37eead3291ca850ec64b40edab6d2f3317633fe612042e6586f5e4d1c",
+    "9_6.bin": "c747753ba9f105907ed77ef8f917605882fc1e2f34b1632e52c4084d77dc89c8",
+    "3_13.bin": "0158d57b6e3ac73dde79eb29e748958232b92b2c9de0d120aa802c789f06a346",
+    "13_2.bin": "7862625df08c7ef2d623f9e8bff6376a54cdc412856d49d143c8cfe899389666",
+    "11_0.bin": "789c5df337454ba8246e611f89ea4b541e04c550ef4773c0528c10db62c18461",
+    "7_10.bin": "aa61710531e02774f201dda1e45dcec87ec4dbae86789af320d66a99ab1eff51",
+    "9_15.bin": "3cc8a54a4f378df01dc737214b68fde78e7fbb0b60893c7d09a995614012139e",
+    "8_1.bin": "29636292cab0540fd76136a8efe2784655c4c2af3a5a2195c51caf37c4636fb0",
+    "12_12.bin": "47dbcb6038e68efa0be64187f3b6744380ae578d350eb0913710826fbb41376a",
+    "12_5.bin": "6b3ba2bda95dcbd39d3e7ae09dd82117b188d8be0d01b26c97fa725240507409",
+    "0_8.bin": "7b8c5296dc97ff352f8496f53d2f5882f937d7b333c981f5f4e0b92b08ff5a86",
+    "5_15.bin": "55b2fd7c4c25cd3a18f1aad3d61008f3c334fb61868dd29b0fceb27e732c0d25",
+    "10_7.bin": "84d3c87b2fdfed6a760da64c1c09cc01bfb99f5d6393906197d969f98d8af025",
+    "10_6.bin": "62db791cf3d08a38ad1893b59f1af22de152a3cd10943b598a6063d0b253c691",
+    "5_14.bin": "6ad1b54ae5a68f0474b8d380146e35f05a07163238fd093ef98d7e6f37b0da67",
+    "0_9.bin": "5379c7e4d07bd541f785c081ee9b16e6b5fc9e9df0660de27a04690431a4d8f0",
+    "12_4.bin": "39b5000036611befdcdf5352d76baecc730f23b34754b016dbad81bbe03f6d8c",
+    "12_13.bin": "7f57e7ddaf6b5f7c6a9e8d4a6dabf2c3f6aa79e5726f010dbf1b34005fc5b680",
+    "8_0.bin": "9099a0add7127b31931a2edf52681d329484062c2c100b04f8e93b14fa80362c",
+    "9_14.bin": "1f50e0d516dac3b32e19f2ace6f160f572e3f0b89fe5a274a80a4294955d5f17",
+    "7_11.bin": "8832b77d694ab77d7edfe0ea344e596d2d6052f267c86ebae145fb0f571eda1e",
+    "7_13.bin": "b2a47d3b06e20a07e34f33f53dba7a99cd30b22e5aae14438b8a4b430adba12c",
+    "8_2.bin": "6332e82093e7349314c2e74eef4f570d20edb7b1a8cca372eac33d30a70ab0c4",
+    "12_11.bin": "1186dd71b8bde4b139af06e0e5f2d98d8a68997e0278e6ad844340665e3125c6",
+    "12_6.bin": "bf010bc871f59ee0f778b63459aac63dfab9978910fca6d9885080255deabbc6",
+    "10_14.bin": "dc9854ebd20bae09cf1fa4ef3351d9109d25716b54757838326bb14d373ef737",
+    "10_4.bin": "e01aefeabcf9025aa9ddc6ecd459b8af16254ec5a280310904b199c0c5748439",
+    "2_9.bin": "89320487869176e216ac7f644865b8ac774b35606c3b8fd092925b0de994e860",
+    "2_8.bin": "b6a5662ac776f8f295785b3a98133f9cb6d00eecc9453a0249c8e77b07990d40",
+    "10_5.bin": "e591710dfe15c0ff767bf5d52115be87560075c388059c15b5cb7f3d18b1f3d4",
+    "10_15.bin": "14646034b5d91469736a791d5412fd42a0207689ec8d4ea689a3e630e2b2f74d",
+    "12_7.bin": "e7870c1d3ec554a24863c7f910aa18899b131a89c5a56537aca89f7475796197",
+    "12_10.bin": "fca2d5c83942b840944f2d954df6df5da15270204d11733ab1f3267eb25c3277",
+    "8_3.bin": "d814d77f6e8da3bfc588440353673ad8e25bc00b8539526171962a39a038e9ec",
+    "7_12.bin": "23a6d84864ed536f1fbe658dae7d0459d80b7c41a727c80339df209ce9db4016",
+    "9_13.bin": "51fa99a5462293471382ae622aa76dda26bebc39bdabb598374f790831b67267",
+    "12_14.bin": "6aac8be01edab63d629b3eb79aeff8a74210d4785360fa030e32acc94e7a7206",
+    "8_7.bin": "1947ff1dd20e33e1eaaa2e2efd2b1d0c8f906d357b42bc16733a27e6d516b54d",
+    "6_8.bin": "9d630233387b7132e79240d7041df815f9558fddcc845525123e4f0fa5230413",
+    "12_3.bin": "5a98a5042bb0b2da4498a6dacea6e2481de7eec35c469ba5cfd089959fd86ac0",
+    "10_11.bin": "77329ccaf539c463d46bcb1457cbf30ab924a2a5b2bc1c847b35e42c1a4b3a25",
+    "10_1.bin": "d4a615b30a07d1f87cf8bee71ea9cc8612eb0603360b6bea5f4ef9eb8917110b",
+    "5_13.bin": "ecc6b88bb8451bde070c15203ec314fc06612c2f5a8a5bd4251974b643695e65",
+    "5_12.bin": "33f7bf67e377aae6db238fe5057528436c784644e3ab9945f75b9fd4c0e4bc2e",
+    "10_0.bin": "f6b4352186508dc12795598ec818dc092550696c82e64087b49afb325c360e7e",
+    "10_10.bin": "18de1b84941e31e8028f7a6de5bc19ccbe7412e34777e94d2a26d70776bcd1d6",
+    "12_2.bin": "8456978ebe3b44d910fe358cb80233593bc2c6392fba01f8f122eec5d838c812",
+    "6_9.bin": "cb73afe433dfa6d699718f84a0f185a1cb5df6e8085e8a47635d5fe2c7d1d37d",
+    "8_6.bin": "fd201ec599724292e762675179ff58e3f6c7821f99261a8718b67ab73bd99662",
+    "12_15.bin": "ae2798cb8afda2cf20bbd65dd7c5279bb3d6a734ae759fe351c1a3644579a153",
+    "9_12.bin": "6a9cf7a3937655891034278e65cdfc71f4e2066ad1b58cb6301b5f60fbeb3482",
+    "9_10.bin": "747a428649b4a78f8d7e7b30063d75e5c890c9f2416a4c2e8aadf41703842bde",
+    "7_15.bin": "d9a8d600ff21f22858267fe9447e927261fd40a7a2ef555c929fd4379ef73515",
+    "4_9.bin": "23adfda5c08c3c45a4a7003c0ea9cb75fae1cff4bb2a1742398fce72b63c8ff6",
+    "8_4.bin": "93901aebe8658d98262c5c91ca14bf538fc6498fb1f748cc72ed4d7c4605fcbc",
+    "10_12.bin": "fb4699877d11f4d61395fcf1036a1aa19970a578d4135bb96fd68df47c920ab7",
+    "12_0.bin": "bd25e39c8f88dfc15acf240704397f6d5644348885d4849604ab3d359637ccf8",
+    "10_2.bin": "dc71b5febcc055506111c400e278a7be52b26d91444af1b53a1df79328494656",
+    "5_10.bin": "8a42b198df8311654af7bb5717c7cbba88991317b0738fb4199928c7d341ebba",
+    "5_11.bin": "1b9e1f8e6a7d6a37ec0dfa0911bc0ba8e453b94cd2afe1456f66e81d38f54e06",
+    "10_3.bin": "0196e3a17bcf93b6177db4655a2c62ff677d0a0c55d8be1e2edf5bfe88dd2a5a",
+    "12_1.bin": "a0f6c5add0dd34182f4f86dec7bf517ba820047ae924d912a8789e2837eb14e2",
+    "10_13.bin": "b8ea9c11b0650d9464722f8a3ea64fc2903d929dc568934a321040ff27f30fbd",
+    "8_5.bin": "7835f6dabe8123e7455fedc0bd87c58c7dfd8439c6ec12810ab666ff74d2f0a4",
+    "4_8.bin": "32fab99f3a6fc2e296e1073176c69ee002f10d2dc69d04cbb435aa02114177c5",
+    "7_14.bin": "4acf3980a83629d117de8d8fabb81ae1a53b50751160b0a741981692381cc904",
+    "9_11.bin": "594568df8e02899c305017de129127de5f013926b6998888540f9b3cee09ed56",
+    "0_10.bin": "f5533f6faf19969a290974dbd260403a0f392e4d8488dc90aa83a525d0bb8f08",
+    "4_5.bin": "73fbe8bac43b8f2652e537c296497d2b65e08c72c50e485f77720d61dd1d7775",
+    "8_8.bin": "ac8aa51f2af350ecd4a94e0fedef7d4533db207d5ad3e57529f1f6115422e136",
+    "6_7.bin": "28bc79c9e4da39c17e55ca49e2c101c13ca53e0b3ded8a4e1a2609dd9ba44c40",
+    "0_1.bin": "657047233b1ee4ba3471c377c1f92ddb93e059086dc4d340754b160ebfc73675",
+    "2_15.bin": "5beb221809329a8d1ba404938f2fc8f6a2d9c1b70bf73b261f402896b25bf9b1",
+    "2_3.bin": "9b5865acdd83a081c976e093f0d3c56532ede10bc4d1cff5881179512a7ba641",
+    "2_2.bin": "88cb9a523b1d912a6056e8887f78dffb47cb67933e602793951aea17bc702fbc",
+    "2_14.bin": "2c01922c77c4d692b24eb84fecac91af582193b5ec976a65f8380b4c466496c1",
+    "0_0.bin": "b091019f59171946eeb0fe64d3e0bd8d889e9f7e67551fd9135440bc07f477cc",
+    "6_6.bin": "ef2578253657d3674aec669e3d8c19c2607febfd140857827c5458ec5f458725",
+    "8_9.bin": "e3b88c2fca6893081e76abd498363604a7b58300e0427571b2df4a7d676edeac",
+    "4_4.bin": "ca95cadcfafdfcb1a7163e262182e5805156dacf8370c0712a0c65dad27cae8e",
+    "0_11.bin": "66063128913855c2bfd62e3af1c57c8553db7855020db4e7a12451ef0f7a6209",
+    "0_13.bin": "0705e776acade1a19fab42422f012722c001f1c8750f8bedcdb6e2d4eec5dd68",
+    "4_6.bin": "e4b1238fbac4ccb712971f8a76086146c4b2ccd7c770032f70a2b01198b766bf",
+    "6_4.bin": "22312a6b3a49c492486652d2aa69f1b67a14c170c1607000b31e9106027d5b6f",
+    "0_2.bin": "004a0e928bef02fe7ecf5d8970528dae92444f280d5358816fd89bb9dc7b42a7",
+    "2_0.bin": "734e865650eccde223cbf20079002d9ccadeb9d52ded73208cc083caeb8503a8",
+    "2_1.bin": "ed1da0394a7e02f8a99099d7cd806379c2a4be5d27340c415e3bd4c3027997cb",
+    "0_3.bin": "887602dd3136445cd5411f829fc8636897045465af70924e885dc3e77b1a0571",
+    "6_5.bin": "5ce7c4fb735c902aa8c44bbade4ddc9f9e2249ee659af81c2dffd5538200feb3",
+    "4_7.bin": "65103c0d547c73f2b534d447693c2af1a95f5282c99dc2457e9f1fbe5cb1f2ed",
+    "0_12.bin": "450235f1f1ef0e3ba8b46cf799f3062b8a0ec28f222afa16c523e0cfaef53949",
+    "4_3.bin": "9cb3100cb804d4657c5d9e0c07fa2d23e6208eb82e162d33a8686e564ebfe350",
+    "6_1.bin": "3a260b4b3b0720aa2719317b66429f9d3cb08124a1efaad1ef580ceba954508a",
+    "0_7.bin": "9bc96ed92c4d1b4f2223d42e74758ec16f46e64360c84a8c38a4cbe96f0b2ad4",
+    "2_13.bin": "7a5b821e72c1f9f2f59614286ba39e745a11688f4f2d62988c8af38f39a54927",
+    "10_8.bin": "f127407c959c6d8c4db32ef318a238765df80e63c0a03aa84519f97790af99c4",
+    "2_5.bin": "ab07c2951c6d0422e78bd6908a4fe5ce250551121bf084efad5dcbb89287cc3b",
+    "2_4.bin": "fbb22ea80871335cc749a6b73b01e84b97134d4f11941b4544a6b08fa5a998ac",
+    "10_9.bin": "332fa15fb82f6c18011a283a2cf8219cf95f22a1534c3144fa2d59f764804a1b",
+    "2_12.bin": "17fd306c79b81868df23b53fc81895ed80a3966e987c8ca61b849a44afa8aed8",
+    "0_6.bin": "5754cb40a5d293ba256265de29542cdd2e0f1cd7baec19d5b14be4ae189f8195",
+    "6_0.bin": "cd77127b31e540b1c8a449a71556cddbef46e525bfe170db1156f6d7cd74b9a7",
+    "4_2.bin": "b505e205ec0ae8e5482245d5078067d5a1cb3fea01eeeb1be2781d2645f586de",
+    "0_15.bin": "c5d5ff5ee3478d065d20afe931d09101f7b0c2d26ad1e4b478fc215f1b8c43e7",
+    "4_0.bin": "4eec6da6087d0e6c6daa214a718eee089b287a4feb6f3b575e9e85b1a9f32255",
+    "6_2.bin": "c1a95527b5e439d8f113f60c86d94b54f01d6c66b503463877a15f0b3bbe03b5",
+    "12_9.bin": "c91fea2a8e7d77171e3146851d76b7734c4f55fff66aea1f5863cdad7de41141",
+    "0_4.bin": "9986a77d7068c77005ed725acd7f8ed1d8df36658eb6e36282b43a8962cd4d8a",
+    "2_10.bin": "bdc9c82714d3f895e209c1e3049209c54e7fc0137c5f5d63a0551e76d7ad65b3",
+    "2_6.bin": "62bab0d5036e114b898b3e52da7da7a311fcdc95884eb5615378595b24b471a3",
+    "2_7.bin": "f713c4dc2dafd59d1e32c6c3c6bdd6d7a5613cd2cf51c2bffb983266c7dc12e7",
+    "2_11.bin": "dbbd680bddefc5783922cd9669c991b450f2037c89199c553fb156eab4eeda66",
+    "0_5.bin": "93d8ea78699d246546c8b084b34e8defeccdc2b6f6de396a70e60c201d02732f",
+    "12_8.bin": "21e95346a388a2f0c103634bcab24f827f187ceb91fc15c47fa1599525ce5620",
+    "6_3.bin": "08a17d43da25e513001df2e722b30a6ae03f85abccf685f4633249983ee674ca",
+    "4_1.bin": "bd4ba509c897c74e63a984d13fcd8e2da83731cd051920d66db3f5249e3a49d2",
+    "0_14.bin": "3e0e60be59bc08925d0a5911c8478efca5c46d061c27521af11874d082e196a7",
+    "11_15.bin": "8a09e9fe483e1b808d331bde9aa93f23e2024e8b97b0371dc8702e54f943e1ad",
+    "3_0.bin": "25a9fa12e80a21e766f4a9a645d7c54cbea9d32ba819551dba57693c79befaab",
+    "1_2.bin": "8db7a053f567b1b485e7d789aaa962a8454b289c3338de63d9a919de02349737",
+    "6_12.bin": "dff47ec6f3eac7772f28b81e71564796bbdfb76d5b27be0c36895ef6dc210f4b",
+    "7_4.bin": "ad999fb5315e810e4d9fe9c414606d90ef0d87fa44870b0ab32664139e6b6423",
+    "13_10.bin": "a5fd3497606b9fa2f5b6e368b34de95dfd49cf7caaaf9a44950cf37d4e56f0cc",
+    "5_6.bin": "e23298c62f6136731a0a0602cc539453ce668e90ddde97c44f8166b812b1c951",
+    "5_7.bin": "39e02a5e9960ce1ab7b1ea8186bb0b18af1a117a5363b1215dbbd46ae16d1f77",
+    "13_11.bin": "1017774bd63c12c5b8ce17423f53f9ab95d64c18d692cd1036c0208a50d85a48",
+    "7_5.bin": "f9c478dc7cefde3cb1945c42b29df2f87a4a61aba516414d457a99a826221597",
+    "6_13.bin": "cf12f316bd7f5060593019413b8a1545539e901737b2b0ba3fb717fa21bc8aaf",
+    "1_3.bin": "4c373499e460b2510b9275485f5da644f2f927c7ed80d93554aacad11e50f779",
+    "3_1.bin": "dc6c82c09145fb8b491e09a0f1c31c97a12dd3bf321590946c2516b9ce274b2f",
+    "11_14.bin": "68cda9a8c76d7a69fcafaaeeffd52d248691ed37539dcc7dd63a13f1f6310b0b",
+    "3_3.bin": "6c0d8b2a209e184cb30082157f322451c984432f0c59dca703a1a586af59c935",
+    "4_14.bin": "a66927f59d40b0483f44ef860fdeb75e4225a1c394b74ddcfa7d4ec4410bd822",
+    "1_1.bin": "74370dabf01637b5fd8a9e9562399e02587e669e972ed4e6cc87b7c6cba9d289",
+    "8_14.bin": "b54ddd7f1e14023eb87b9b125bb36399eb644b65c9fdb40d6d69e16c88a229c0",
+    "9_8.bin": "58eeb04d0d381728bc1ed01fb0739101474d59e1c103e0301011b70693a8fde6",
+    "6_11.bin": "37daad931eda7c0b3904676c31256dd5578f4c39bcf3232013f06a98f7968f6f",
+    "7_7.bin": "49dd8c22c54cb2f13b33ec6dc09468cbea3e5a653ea5dce600d458657327b04d",
+    "13_13.bin": "88e582432a3830fad7dd74a0a358780fe1c71840fe8c00828e75fb912c4fb35c",
+    "5_5.bin": "c644dd73d00f2b8612440ee545e2f0bf42b7d5e2b2b43488a01334bf1fdccb9c",
+    "5_4.bin": "fe8af8204ea6cb66305e44fc2d3786dd35f947ad1d7ae4a272df0ec29f0db208",
+    "13_12.bin": "d4e941897b56b26e660512b51510bb3c8aaedc15350c566010676fb1398c040e",
+    "7_6.bin": "64e23daa47fca3f838ba690955d5d961a2b88029d60401a295d0834dea9931c0",
+    "6_10.bin": "141b71365ea66f97dd066ad8ce119c62cceaf575a1d81caa5b4ed2e4e3417306",
+    "9_9.bin": "ef1d3d041f3ea9c6c6907501a9f63b4052e53cef447eccb4914765f19922083f",
+    "8_15.bin": "dcfe60120e6c154161d71c492afdcbd1cbae0174d762a30167a601ca26856d63",
+    "1_0.bin": "e50b9ef27c95a679ad2a66064094fdf90d29cf4796ccf524850cd1cf43d82217",
+    "4_15.bin": "93ea6dea9631a86d4a096e7cfd9f8370f5db7fd867c90935555814cb538ab4c7",
+    "3_2.bin": "a688ef4dac9f12f66901dd4ef2d016a50cb8c49fa704c9a1df0387e65f9e20bc",
+    "11_13.bin": "b29526f1e693d5ba7d68e569e400fd68166e6af6feac7abc7d07aed3c0d7c71f",
+    "3_6.bin": "14e07f843c26763ad9d418284d48f551ed13ae7b7b199e14dc2f4ac153553958",
+    "4_11.bin": "46e353fb9fd664aa9e6a08c8dfb98a5a34020cc8faadf8b4edb2c8b969818709",
+    "13_9.bin": "7f3f12244ae400fa4e1ef3953294cd3c10b2b1e7f4e8c6a72239d6a18a940840",
+    "1_4.bin": "d4ab4495c96ad40c693fc9f96bdcaf524aedfd222ef8f4325d98e6f8b0812e1e",
+    "6_14.bin": "70b30baa6bb3af48c4ea15d24e194b8d2adc34692b0a16fe02e2c210490d83a0",
+    "8_11.bin": "c343fe0a53c127ba82ea39e0b8472561566cfd7c728d617a0e2307e6cfd95640",
+    "7_2.bin": "6adf44c3d95548abf5310166623c81238af731040b29e0e441281859b760b706",
+    "5_0.bin": "e8178d85482017e84f6797c9cb26cf24868f5127b5aa4f845785e3f70baea482",
+    "5_1.bin": "2567f1024274c23cefc1c0691105b6203b3d7aa8afc1a6a008b196806b5798fb",
+    "7_3.bin": "5cb93e929f98e1a61ad589052d061b4e370c0231892da4c8587b2834b47581b8",
+    "8_10.bin": "225f1515c4022341dfd5436b7ee85eb1aee0e20674b42a62cf86e6a2d7d0cb4c",
+    "6_15.bin": "1e3bd0c615097cf7949a2c1b739ed9f768cfbc77c8efdc246a8b08ba5ffbc0a8",
+    "1_5.bin": "489949346a23c8ef861e9595b9a0a4537347515268a697f612ecfe19cd8829be",
+    "13_8.bin": "845c5ccf937e13551ac6c1d199836c14d714df8fb665443cb937ecc38587e8da",
+    "4_10.bin": "bfa151098c694d5ce498b533150de069cef44d62adce6e46575796b8c5e3d0fb",
+    "3_7.bin": "6e4d8069d5eeec34bcf70628ccccc29d296ecc5f39f32bd1405fb0182b933502",
+    "11_12.bin": "885c23afc6ba86d8ebe29314e45b23889dc4f0af7bb595f95e11ef54b8e50021",
+    "11_8.bin": "e8c665eb69ae435ceebdd625bd3d3846851fc60eb218dbcd4e40b0160f523884",
+    "11_10.bin": "c71cd0d970244ef26b806b690e2d7932c5748dcb78727750cbc187cb346569da",
+    "3_5.bin": "244cdf82f6b3c584aab3025a576e61bd1b387bad0c5764bfa1b7b4cf39a2feb3",
+    "4_12.bin": "f91b832669b1462c0a98bbdcd81eb9854107dead4aa5df2266c71a7adb0828dd",
+    "1_7.bin": "ae842d08ba171762c4960eece140a9fc011d6bd71a1aafbf0f77c3863afdc251",
+    "8_12.bin": "00da94549e2c36dec33c386b9ec2790989180b10be2318d0d22d31fc0d60b531",
+    "7_1.bin": "56231140f1557c6f0d7ad9ad5e88af44df5272f87fbdc051d487017b8db30908",
+    "13_15.bin": "e32ffa9078635404937d695e0217870d31d4c62b127e77ad0446c67398abb15b",
+    "5_3.bin": "b5ae086851bc1739410a42f4f579253da254dd0cba405f786b23a4fc04e36f2d",
+    "5_2.bin": "6b3c8a1ef4376eb16897f98bc16a3f7c8cc45f6588b8d35c479e9c7dd18a7d49",
+    "13_14.bin": "b3df483a4f3b6930805336a44a2570f6f12154a1b6038a9740d57941b55c9da9",
+    "7_0.bin": "c462e5e476b16bbcfcbecbadcebf04c6930cecd85392c350bc565031339db06e",
+    "8_13.bin": "30543007cf53d0e10bad8b2154656e8817dea31728680acba2d8df6043a0bd58",
+    "1_6.bin": "24fc14a6c0390d2632ee37ccb5312f8f47a7ddabc0b5af766dbdc2a038e45b55",
+    "4_13.bin": "e8f05cf59fe11d657ab05d13c899688364f771d8429f055b8ae41dfe769f8cf3",
+    "3_4.bin": "1688bb3efd50591562e0eed200d7140e7e3948c6fef4842d8297f3668ee438c0",
+    "11_9.bin": "5219023640d8a3c85d53436551ee55083477020ff15b6020eef6dc87a5f0c492",
+    "11_11.bin": "c32f1a4d88965ea133374e7fb9d076aa88c1c8e51e4ec66b9367c970e4df9b6e"
+  }
+}

@@ -1,0 +1,13 @@
+test_bundle_and_invalid_alphabet (test_memory2d.BaseCase) ... ok
+test_core_locality_order_and_edges (test_memory2d.BaseCase) ... ok
+test_hand_case_and_exhaustive_updates (test_memory2d.BaseCase) ... ok
+test_quantizer_all_values (test_memory2d.BaseCase) ... ok
+test_real_parameters_integer_oracle (test_memory2d.BaseCase) ... ok
+test_codec_and_corruption (test_stream_memory.StreamTests) ... ok
+test_factory_and_small_lift (test_stream_memory.StreamTests) ... ok
+test_lazy_growth_locality_and_direct_oracle (test_stream_memory.StreamTests) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.125s
+
+OK

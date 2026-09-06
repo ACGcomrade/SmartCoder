@@ -1,0 +1,3 @@
+# Versions used for the verified v0.3.0 run (Python 3.9.6).
+numpy==2.0.2
+Pillow==11.3.0

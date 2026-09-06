@@ -1,0 +1,414 @@
+{
+  "version": "0.3.0",
+  "date": "2026-09-06",
+  "runtime": {
+    "python": "3.9.6",
+    "numpy": "2.0.2",
+    "pillow": "11.3.0"
+  },
+  "base_shape": [
+    872,
+    3000
+  ],
+  "dtype": "uint64",
+  "primes": [
+    4099,
+    4111,
+    4127
+  ],
+  "modulus": 69544031603,
+  "crt_weights": [
+    1034931917,
+    63386399031,
+    5122700656
+  ],
+  "int64_safety_bound": 287008218425581,
+  "field_count": 3,
+  "fixed_decoder_count": 3,
+  "photo_count": 6,
+  "hypotheses": {
+    "H1": "PASS",
+    "H2": "PASS",
+    "H3": "PASS",
+    "H4": "PASS",
+    "H5": "PASS",
+    "H6": "PASS",
+    "H7": "PASS"
+  },
+  "base_case": {
+    "binary_states": 64,
+    "slot_updates": 384,
+    "integer_oracle_cases": 1000
+  },
+  "isolation": {
+    "source_probe_blocked": true,
+    "decoder_source_attempts": 0,
+    "network_guard": true,
+    "fresh_process": true
+  },
+  "local_updates": [
+    {
+      "photo": 0,
+      "mode": "known_roi",
+      "base_cells_read": 216,
+      "base_cells_written": 216,
+      "base_cells_changed": 216,
+      "roi_yxhw": [
+        4,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "photo": 1,
+      "mode": "known_roi",
+      "base_cells_read": 216,
+      "base_cells_written": 216,
+      "base_cells_changed": 216,
+      "roi_yxhw": [
+        4,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "photo": 2,
+      "mode": "known_roi",
+      "base_cells_read": 216,
+      "base_cells_written": 216,
+      "base_cells_changed": 216,
+      "roi_yxhw": [
+        4,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "photo": 3,
+      "mode": "known_roi",
+      "base_cells_read": 216,
+      "base_cells_written": 216,
+      "base_cells_changed": 216,
+      "roi_yxhw": [
+        4,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "photo": 4,
+      "mode": "known_roi",
+      "base_cells_read": 216,
+      "base_cells_written": 216,
+      "base_cells_changed": 216,
+      "roi_yxhw": [
+        4,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "photo": 5,
+      "mode": "known_roi",
+      "base_cells_read": 216,
+      "base_cells_written": 216,
+      "base_cells_changed": 216,
+      "roi_yxhw": [
+        4,
+        5,
+        8,
+        9
+      ]
+    }
+  ],
+  "whole_updates": [
+    {
+      "photo": 0,
+      "mode": "whole_image",
+      "base_cells_read": 921600,
+      "base_cells_written": 921600,
+      "base_cells_changed": 921600,
+      "roi_yxhw": [
+        0,
+        0,
+        600,
+        512
+      ]
+    },
+    {
+      "photo": 1,
+      "mode": "whole_image",
+      "base_cells_read": 405900,
+      "base_cells_written": 405900,
+      "base_cells_changed": 405900,
+      "roi_yxhw": [
+        0,
+        0,
+        300,
+        451
+      ]
+    },
+    {
+      "photo": 2,
+      "mode": "whole_image",
+      "base_cells_read": 720000,
+      "base_cells_written": 720000,
+      "base_cells_changed": 720000,
+      "roi_yxhw": [
+        0,
+        0,
+        400,
+        600
+      ]
+    },
+    {
+      "photo": 3,
+      "mode": "whole_image",
+      "base_cells_read": 819840,
+      "base_cells_written": 819840,
+      "base_cells_changed": 819840,
+      "roi_yxhw": [
+        0,
+        0,
+        427,
+        640
+      ]
+    },
+    {
+      "photo": 4,
+      "mode": "whole_image",
+      "base_cells_read": 2616000,
+      "base_cells_written": 2616000,
+      "base_cells_changed": 2616000,
+      "roi_yxhw": [
+        0,
+        0,
+        872,
+        1000
+      ]
+    },
+    {
+      "photo": 5,
+      "mode": "whole_image",
+      "base_cells_read": 349056,
+      "base_cells_written": 349056,
+      "base_cells_changed": 349056,
+      "roi_yxhw": [
+        0,
+        0,
+        303,
+        384
+      ]
+    }
+  ],
+  "storage": {
+    "base_payload_bytes": 20928000,
+    "base_npy_bytes": 20928128,
+    "manifest_bytes": 478,
+    "decoder_source_bytes": 6805,
+    "audit_harness_bytes": 1309,
+    "input_rgb_bytes": 5832396,
+    "direct_quantized_uint8_bytes": 5832396,
+    "direct_quantized_bitpacked_lower_bytes": 4374297,
+    "download_bytes": 1484814,
+    "dense_crt_bitpacked_lower_bytes": 11777627,
+    "base_cells": 2616000,
+    "decode_temporary_note": "One full int64 residual is 8*base_cells bytes; casts/modulo may overlap (~16*base_cells), plus cropped digit/output arrays. Validation boolean arrays and library buffers add overhead. Not a measured peak RSS."
+  },
+  "photos": [
+    {
+      "photo": 0,
+      "name": "Grace Hopper",
+      "field_prime": 4099,
+      "shape_hwc": [
+        600,
+        512,
+        3
+      ],
+      "max_channel_error": 2,
+      "mse": 1.5026095920138889,
+      "psnr_db": 46.36234204005988,
+      "zero_base_mse": 11684.523468967014,
+      "quantized_mismatch_count": 0
+    },
+    {
+      "photo": 1,
+      "name": "Chelsea cat",
+      "field_prime": 4099,
+      "shape_hwc": [
+        300,
+        451,
+        3
+      ],
+      "max_channel_error": 2,
+      "mse": 1.4991648189209166,
+      "psnr_db": 46.37230978844877,
+      "zero_base_mse": 14624.986802168021,
+      "quantized_mismatch_count": 0
+    },
+    {
+      "photo": 2,
+      "name": "Coffee",
+      "field_prime": 4111,
+      "shape_hwc": [
+        400,
+        600,
+        3
+      ],
+      "max_channel_error": 2,
+      "mse": 1.4997208333333334,
+      "psnr_db": 46.37069936363143,
+      "zero_base_mse": 14822.572776388888,
+      "quantized_mismatch_count": 0
+    },
+    {
+      "photo": 3,
+      "name": "Rocket",
+      "field_prime": 4111,
+      "shape_hwc": [
+        427,
+        640,
+        3
+      ],
+      "max_channel_error": 2,
+      "mse": 1.5041032396565184,
+      "psnr_db": 46.358027141905126,
+      "zero_base_mse": 5212.2294740437155,
+      "quantized_mismatch_count": 0
+    },
+    {
+      "photo": 4,
+      "name": "Hubble deep field",
+      "field_prime": 4127,
+      "shape_hwc": [
+        872,
+        1000,
+        3
+      ],
+      "max_channel_error": 2,
+      "mse": 1.5121961009174312,
+      "psnr_db": 46.334722469355384,
+      "zero_base_mse": 1060.8324071100917,
+      "quantized_mismatch_count": 0
+    },
+    {
+      "photo": 5,
+      "name": "Coins",
+      "field_prime": 4127,
+      "shape_hwc": [
+        303,
+        384,
+        3
+      ],
+      "max_channel_error": 2,
+      "mse": 1.4927203657865786,
+      "psnr_db": 46.391019027545816,
+      "zero_base_mse": 11793.844136757425,
+      "quantized_mismatch_count": 0
+    }
+  ],
+  "sources": [
+    {
+      "name": "Grace Hopper",
+      "file": "grace_hopper.jpg",
+      "url": "https://raw.githubusercontent.com/matplotlib/matplotlib/v3.10.0/lib/matplotlib/mpl-data/sample_data/grace_hopper.jpg",
+      "license_note": "US Navy official portrait by James S. Davis, public domain; Matplotlib sample variant",
+      "source_page": "https://en.wikisource.org/wiki/File:Grace_Hopper.jpg",
+      "expected_sha256": "a8ca6d734765703b09728ab47fe59f473d93ae3967fc24c7c0288c3c7adb7130",
+      "hash_origin": "Downloaded 2026-09-06 and locally pinned; not a publisher-supplied checksum",
+      "actual_sha256": "a8ca6d734765703b09728ab47fe59f473d93ae3967fc24c7c0288c3c7adb7130",
+      "download_bytes": 61306,
+      "original_mode": "RGB",
+      "shape_hwc": [
+        600,
+        512,
+        3
+      ]
+    },
+    {
+      "name": "Chelsea cat",
+      "file": "chelsea.png",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/chelsea.png",
+      "license_note": "Stefan van der Walt, CC0 per scikit-image",
+      "expected_sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+      "actual_sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+      "download_bytes": 240512,
+      "original_mode": "RGB",
+      "shape_hwc": [
+        300,
+        451,
+        3
+      ]
+    },
+    {
+      "name": "Coffee",
+      "file": "coffee.png",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/coffee.png",
+      "license_note": "Rachel Michetti, CC0 per scikit-image",
+      "expected_sha256": "cc02f8ca188b167c775a7101b5d767d1e71792cf762c33d6fa15a4599b5a8de7",
+      "actual_sha256": "cc02f8ca188b167c775a7101b5d767d1e71792cf762c33d6fa15a4599b5a8de7",
+      "download_bytes": 466706,
+      "original_mode": "RGB",
+      "shape_hwc": [
+        400,
+        600,
+        3
+      ]
+    },
+    {
+      "name": "Rocket",
+      "file": "rocket.jpg",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/rocket.jpg",
+      "license_note": "SpaceX, public domain per scikit-image",
+      "expected_sha256": "c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c",
+      "actual_sha256": "c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c",
+      "download_bytes": 112525,
+      "original_mode": "RGB",
+      "shape_hwc": [
+        427,
+        640,
+        3
+      ]
+    },
+    {
+      "name": "Hubble deep field",
+      "file": "hubble_deep_field.jpg",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/hubble_deep_field.jpg",
+      "license_note": "NASA, public domain per scikit-image",
+      "expected_sha256": "3a19c5dd8a927a9334bb1229a6d63711b1c0c767fb27e2286e7c84a3e2c2f5f4",
+      "actual_sha256": "3a19c5dd8a927a9334bb1229a6d63711b1c0c767fb27e2286e7c84a3e2c2f5f4",
+      "download_bytes": 527940,
+      "original_mode": "RGB",
+      "shape_hwc": [
+        872,
+        1000,
+        3
+      ]
+    },
+    {
+      "name": "Coins",
+      "file": "coins.png",
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/coins.png",
+      "license_note": "Brooklyn Museum, no known copyright restrictions per scikit-image",
+      "expected_sha256": "f8d773fc9cfa6f4d8e5942dc34d0a0788fcaed2a4fefbbed0aef5398d7ef4cba",
+      "actual_sha256": "f8d773fc9cfa6f4d8e5942dc34d0a0788fcaed2a4fefbbed0aef5398d7ef4cba",
+      "download_bytes": 75825,
+      "original_mode": "L",
+      "shape_hwc": [
+        303,
+        384,
+        3
+      ]
+    }
+  ],
+  "artifact_hashes": {
+    "base.npy": "86db1f9df46c2650ac31296a00da0cbcd2cee11ed04f5f4ff60c9b1bf02c64e5",
+    "manifest.json": "872687f3e880f9d9d6c3088443a1a2906a10184364df03a56e109752c8e9ff3c",
+    "memory2d.py": "5c60fb79107bb0a9bca7252edca946a6f1ea024715a5d868eb854a7f747f3968"
+  }
+}
