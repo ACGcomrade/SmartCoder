@@ -1,6 +1,6 @@
 # RESULTS_CORRUPTION_V2.md — 剪裁 vs 随机掩码对比
 
-2026-09-08；研究 RESEARCH_CORRUPTION_V2.md，预注册 PLAN_CORRUPTION_V2.md。
+2026-09-08；研究 RESEARCH.md，预注册 PLAN.md。
 照片数：380，统一 256×256，标称档位 p ∈ {0.10,0.20,0.30,0.40,0.50}。
 
 ## 核心结果表

@@ -1,6 +1,6 @@
 # 二维照片记忆实测结果 — v0.3.0
 
-2026-09-06；按 PLAN_2D.md 的预注册阈值运行。研究依据见 RESEARCH_2D.md。
+2026-09-06；按 PLAN.md 的预注册阈值运行。研究依据见 RESEARCH.md。
 
 ## 结论
 
@@ -57,7 +57,7 @@ python3 -m unittest discover -s . -p test_memory2d.py -v
 python3 verify_base_case.py
 python3 run_photo_demo.py
 # 独立复制 bundle 后，在装有 NumPy/Pillow 的环境恢复：
-python3 artifacts/photo_demo/bundle/memory2d.py artifacts/photo_demo/bundle /tmp/smartcoder-recovered
+python3 ../../artifacts/photo_demo/bundle/memory2d.py ../../artifacts/photo_demo/bundle /tmp/smartcoder-recovered
 ```
 
 运行器不会重新下载照片；输入哈希不符立即失败。data/sources.json 是下载清单，metrics.json 保存本次实际 SHA256、原始模式、运行时版本与 bundle 哈希。
@@ -70,4 +70,4 @@ python3 artifacts/photo_demo/bundle/memory2d.py artifacts/photo_demo/bundle /tmp
 
 这是受约束的二维编码记忆，不是智能涌现。单个域只读出其两张照片，不具有对完整 base 的单射性；原始 8 位像素因量化也不是单射。固定尺寸，增加记忆或域需要另行研究与容量/溢出设计。当前没有纠错、自动定位变化、联想检索、学习 decoder 或跨照片内容压缩。
 
-![原图、重建与放大误差](./artifacts/photo_demo/comparison.png)
+![原图、重建与放大误差](./../../artifacts/photo_demo/comparison.png)

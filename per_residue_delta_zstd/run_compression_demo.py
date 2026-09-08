@@ -5,7 +5,7 @@ Steps:
   2. Build a compressed store with the 12 original photos
   3. Run the download script (if photos not already cached)
   4. Run full benchmark: compressed vs original on 300+ photos
-  5. Write RESULTS_COMPRESSION.md
+  5. Write docs/v5_compression/RESULTS.md
 
 Usage: python3 run_compression_demo.py [--skip-download] [--trials N]
 """
@@ -184,7 +184,7 @@ def main():
         'bench': bench_stats,
     }, indent=2, default=str))
 
-    # Write RESULTS_COMPRESSION.md
+    # Write docs/v5_compression/RESULTS.md
     def h(status): return 'PASS' if status else 'FAIL'
     n = len(trial_results)
     med = bench_stats.get("ratio_median", ratio12)
@@ -238,8 +238,9 @@ def main():
 - **无损保证**：max_channel_error ≤ 2 来自量化设计，与压缩策略无关。
 - **RAM 行为不变**：tile 文件变小后磁盘 I/O 减少，但单 tile 解压工作集与原版相同。
 """
-    (ROOT / 'RESULTS_COMPRESSION.md').write_text(md)
-    print(f"\nResults written to RESULTS_COMPRESSION.md and {out/'metrics.json'}")
+    results_path = ROOT / 'docs' / 'v5_compression' / 'RESULTS.md'
+    results_path.write_text(md)
+    print(f"\nResults written to {results_path} and {out/'metrics.json'}")
 
 
 if __name__ == '__main__':

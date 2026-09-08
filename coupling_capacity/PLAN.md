@@ -1,6 +1,6 @@
 # PLAN_COUPLING.md — 预注册：s-槽耦合容量实验
 
-2026-09-08；前置研究 RESEARCH_COUPLING.md。
+2026-09-08；前置研究 RESEARCH.md。
 
 ## 实验设计
 

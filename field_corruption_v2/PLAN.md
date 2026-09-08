@@ -1,6 +1,6 @@
 # PLAN_CORRUPTION_V2.md — 预注册：剪裁 vs 随机掩码对比实验
 
-2026-09-08；前置研究 RESEARCH_CORRUPTION_V2.md + field_crop_recall/RESEARCH_FIELD_MI.md。
+2026-09-08；前置研究 RESEARCH.md + ../field_crop_recall/RESEARCH.md。
 
 ## 实验设置
 

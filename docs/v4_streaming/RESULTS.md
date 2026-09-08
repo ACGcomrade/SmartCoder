@@ -1,6 +1,6 @@
 # v0.4 实测：动态域生成与按需 RAM
 
-2026-09-06；前置研究 RESEARCH_STREAMING.md，预注册 PLAN_STREAMING.md。
+2026-09-06；前置研究 RESEARCH.md，预注册 PLAN.md。
 
 结果：{'S1': 'PASS', 'S2': 'PASS', 'S3': 'PASS', 'S4': 'PASS', 'S5': 'PASS', 'S6': 'PASS', 'S7': 'PASS'}。12张不同图像；6个自动生成域；逻辑base形状(872, 3000)，当前cell字节宽10。
 

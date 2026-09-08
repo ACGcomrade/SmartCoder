@@ -318,8 +318,8 @@ def _write_results_md(metrics, agg, H1, H2, H3, H4, h1_count, drop):
               "```",
               ""]
 
-    (THIS / 'RESULTS_FIELD_CROP.md').write_text('\n'.join(lines))
-    print(f"Results written to {THIS / 'RESULTS_FIELD_CROP.md'}")
+    (THIS / 'RESULTS.md').write_text('\n'.join(lines))
+    print(f"Results written to {THIS / 'RESULTS.md'}")
 
 
 if __name__ == '__main__':

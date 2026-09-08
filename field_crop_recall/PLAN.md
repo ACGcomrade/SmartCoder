@@ -1,6 +1,6 @@
 # PLAN_FIELD_CROP.md — 预注册：裁剪级别与余数平面相关性实验
 
-2026-09-08；前置研究 RESEARCH_FIELD_MI.md。
+2026-09-08；前置研究 RESEARCH.md。
 
 ## 实验设置
 
@@ -25,15 +25,15 @@
 
 ```
 field_crop_recall/
-  RESEARCH_FIELD_MI.md    ← 已完成
+  RESEARCH.md    ← 已完成
   PLAN_FIELD_CROP.md      ← 本文件
   run_crop_recall.py      ← 端到端实验（含照片准备、计算、日志、结论）
-  RESULTS_FIELD_CROP.md   ← 运行后写入
+  RESULTS.md   ← 运行后写入
 ```
 
 ## 报告格式
 
-RESULTS_FIELD_CROP.md 中分别报告：
+RESULTS.md 中分别报告：
 - 每张照片在每个裁剪档位的 $\rho_{\text{related}}$ 与 $\rho_{\text{unrelated}}$
 - 群体均值曲线与理论预测曲线对比
 - H1–H4 逐条 PASS/FAIL 及实测值

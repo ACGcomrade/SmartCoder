@@ -26,3 +26,6 @@ data/coco_cache/
 
 # macOS
 .DS_Store
+
+# diary
+ILP.md

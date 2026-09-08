@@ -24,7 +24,7 @@
 - `data/photos/` 与 `data/sources.json`：输入和溯源，仅编码/评估需要。
 - `artifacts/photo_demo/bundle/`：最终 `base.npy`、`manifest.json`、解码代码；可独立复制恢复。
 - `artifacts/photo_demo/recovered/`：从全部写入后的最终 base 恢复的 PNG。
-- `artifacts/photo_demo/metrics.json`、`RESULTS_2D.md`：真实结果、版本、存储开销与限制。
+- `artifacts/photo_demo/metrics.json`、`RESULTS.md`：真实结果、版本、存储开销与限制。
 
 首次写入/整图替换使用整图矩形；已知局部变化用 ROI。未知 ROI 不提供自动定位承诺。全 base 构造只作初始化/一致性对照。暂不改变照片尺寸或动态增加域。
 

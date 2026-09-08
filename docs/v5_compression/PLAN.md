@@ -1,6 +1,6 @@
 # PLAN_COMPRESSION.md — 预注册：per-residue-plane delta+lzma 压缩
 
-2026-09-06；前置研究 RESEARCH_COMPRESSION.md。实现目录：`per_residue_delta_zstd/`。
+2026-09-06；前置研究 RESEARCH.md。实现目录：`per_residue_delta_zstd/`。
 
 ## 实现策略
 

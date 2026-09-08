@@ -1,6 +1,6 @@
 # RESULTS_FIELD_CROP.md — 裁剪级别与余数平面相关性
 
-2026-09-08；研究 RESEARCH_FIELD_MI.md，预注册 PLAN_FIELD_CROP.md。
+2026-09-08；研究 RESEARCH.md，预注册 PLAN.md。
 
 
 Canvas: 872×1000，μ=22.14，σ=17.06

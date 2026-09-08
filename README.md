@@ -10,19 +10,19 @@ field 始终指抽象代数中的域。list 暂采用有限有序序列这一数
 
 ## 1. 文献基础与推导归属
 
-**当前进展 v0.4.0：12 张照片与按需 RAM。** 最新 [研究与统一构造推导](./RESEARCH_STREAMING.md) → [预注册计划](./PLAN_STREAMING.md) → [实测成果](./RESULTS_STREAMING.md)。一个 [FieldFactory](./field_factory.py) 根据 `Q²` 容量生成素域序列；一个参数化 decoder 支持逐对照片入库，域数自动从1增长到6。不再把3域/6槽写死。延迟CRT扩展保留旧分量、新分量置零，登记新域不读写旧tile；空间分块只在命中时解压/修改。
+**当前进展 v0.4.0：12 张照片与按需 RAM。** 最新 [研究与统一构造推导](./docs/v4_streaming/RESEARCH.md) → [预注册计划](./docs/v4_streaming/PLAN.md) → [实测成果](./docs/v4_streaming/RESULTS.md)。一个 [FieldFactory](./field_factory.py) 根据 `Q²` 容量生成素域序列；一个参数化 decoder 支持逐对照片入库，域数自动从1增长到6。不再把3域/6槽写死。延迟CRT扩展保留旧分量、新分量置零，登记新域不读写旧tile；空间分块只在命中时解压/修改。
 
 12图均保持原尺寸，最大通道误差≤2，PSNR 45.72–46.39dB。相同最终base、独立进程三次测试中，16×16 ROI峰值RSS中位数34.55MiB，全base紧凑加载63.95MiB；全域流式消费34.63MiB。小ROI解压一个64×64空间块（120KiB原始cell字节），不是完整base。上述为本机实测，不代表CRT独有优势；启动高水位增量0不等于零RAM。结构增长由容量事件驱动，尚未学习图像语义或涌现智能。理论与统计口径见上述文件。
 
 以下保留 v0.3 阶段记录：
 
-**历史阶段 v0.3.0：二维照片 demo 已运行。** 6 张不同主体、不同原生尺寸照片写入同一个 `872×3000` 的二维整数 base；3 个固定数学域 decoder 各恢复 2 张，符合用户确认的 `域数≤照片数/2`。每通道误差≤2，实测 PSNR 46.33–46.39 dB；局部修改与跨进程恢复通过。研究与推导见 [RESEARCH_2D.md](./RESEARCH_2D.md)，预注册见 [PLAN_2D.md](./PLAN_2D.md)，结果见 [RESULTS_2D.md](./RESULTS_2D.md)。下文 v0.2 的数学基础与反例继续保留。
+**历史阶段 v0.3.0：二维照片 demo 已运行。** 6 张不同主体、不同原生尺寸照片写入同一个 `872×3000` 的二维整数 base；3 个固定数学域 decoder 各恢复 2 张，符合用户确认的 `域数≤照片数/2`。每通道误差≤2，实测 PSNR 46.33–46.39 dB；局部修改与跨进程恢复通过。研究与推导见 [RESEARCH_2D.md](./docs/v3_photo_2d/RESEARCH.md)，预注册见 [PLAN_2D.md](./docs/v3_photo_2d/PLAN.md)，结果见 [RESULTS_2D.md](./docs/v3_photo_2d/RESULTS.md)。下文 v0.2 的数学基础与反例继续保留。
 
 新构造使用 `F_4099、F_4111、F_4127`，三个素数由每域两张六位量化照片的 `64²` 容量规则生成，不针对照片拟合。CRT 投影之后的基数拆位不是域同态。每域固定返回两张，不是用编号隐式创建六个 decoder。完整量化照片组可逆，单域对完整 base 不单射，原始 8 位图因量化也不单射。当前 base 负载 20,928,000 字节，为原始 RGB 总量的约 3.59 倍；不宣称压缩突破或智能涌现。数学依据和计算详见上述研究与结果文件。
 
 **后续开发硬性门槛（2026-09-06 起）**：每次新增功能或运算，先完成最新研究检索、已有数学理论对照、可复算 base case、预注册 hypothesis 与失败条件，再实现和报告。具体执行要求见 [AGENTS.md](./AGENTS.md)。未完成这些步骤的变更不得计作已验证成果。
 
-本次先重写以上课题主张，再重新调研，最后形成以下数学推导和 [最小实现方案](./MVP_SPEC.md)。[RESEARCH.md](./RESEARCH.md) 记录原始来源、日期、阅读范围和各结论的适用条件。
+本次先重写以上课题主张，再重新调研，最后形成以下数学推导和 [最小实现方案](./docs/v1_base_case/MVP_SPEC.md)。[RESEARCH.md](./docs/v1_base_case/RESEARCH.md) 记录原始来源、日期、阅读范围和各结论的适用条件。
 
 以下以 **R1–R10** 指代研究文件中的来源。定义和基础定理依据 [Milne 的域论教材](https://www.jmilne.org/math/CourseNotes/FT.pdf)（R1）；CRT 编码依据 [Stanford 课程材料](https://web.stanford.edu/class/archive/cs/cs250/cs250.1254/InClass/Class11_soln.pdf)（R2）。2026 年的 [qCRT 更新](https://arxiv.org/html/2505.15720v2)（R3）与 [局部修复码](https://arxiv.org/html/2605.06182v1)（R6）提供扩展方向。
 
@@ -219,7 +219,7 @@ D_t=(F_t,\alpha_t,\beta_t,\ldots),\quad
 - 二维base空间分块、块级zlib、惰性局部校验，避免v0.3全矩阵载入/转换。超过64位使用活动块内精确大整数。局部ROI读取1块，跨边界4块；块读写字节实测。
 - 12张照片从同一最终逻辑base恢复，PSNR 45.72–46.39dB；12槽更新无串扰，1000个独立直接CRT采样通过。源图访问被禁止的新进程恢复通过。
 - 三次独立进程中位数：ROI峰值RSS34.55MiB，对照全base紧凑载入63.95MiB；512²→2048²合成画布固定ROI解压量不变。明确区分进程高水位、工作集、磁盘容量及OS缓存，不声称CRT独有RAM优势。
-- [完整报告](./RESULTS_STREAMING.md) 保存 S1–S7、原图对照与机器可读记录；旧版数学验证及8个unit test通过。结构动态性目前是容量事件驱动，不是学得域或智能涌现。
+- [完整报告](./docs/v4_streaming/RESULTS.md) 保存 S1–S7、原图对照与机器可读记录；旧版数学验证及8个unit test通过。结构动态性目前是容量事件驱动，不是学得域或智能涌现。
 
 ### v0.3.0 — 2026-09-06
 
@@ -235,7 +235,7 @@ D_t=(F_t,\alpha_t,\beta_t,\ldots),\quad
 - 修正数学 field 与 list 的解释，撤回语义字段及视图一致性前提。
 - 按“目标初稿 → 调研 → 有依据推导 → 实现规格”的顺序重写三份文档。
 - 给出 P1–P5 的证明和两个有限域手算构造，区分强单射、确定性与联合双射。
-- 提供 [verify_base_case.py](./verify_base_case.py) 的有限状态穷举检查；具体实测结果见 [MVP_SPEC.md](./MVP_SPEC.md)。
+- 提供 [verify_base_case.py](./verify_base_case.py) 的有限状态穷举检查；具体实测结果见 [MVP_SPEC.md](./docs/v1_base_case/MVP_SPEC.md)。
 - 当前成果不包含智能或自组织的实验验证；数学 list 的有限序列解释仍是显式建模约定。
 
 ### v0.1.0 — 2026-09-05，已被替代

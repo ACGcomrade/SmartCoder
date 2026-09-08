@@ -1,6 +1,6 @@
 # v0.4 实现前预注册：照片扩增、RAM、统一动态域工厂
 
-2026-09-06。前置研究 RESEARCH_STREAMING.md，旧版 H1–H7 阈值继续保留作为回归。本轮增加到12张真实图像：原6张加 astronaut、camera、brick、grass、gravel、ihc；不是复制、增广或切块凑数量。固定版本来源/哈希、原生分辨率，灰度转RGB。
+2026-09-06。前置研究 RESEARCH.md，旧版 H1–H7 阈值继续保留作为回归。本轮增加到12张真实图像：原6张加 astronaut、camera、brick、grass、gravel、ihc；不是复制、增广或切块凑数量。固定版本来源/哈希、原生分辨率，灰度转RGB。
 
 ## 新 hypotheses（实现与真实 RAM 测量之前固定）
 
@@ -22,4 +22,4 @@
 
 全载基线与按需方法使用相同紧凑大整数字节格式和相同局部结果，不拿Python全量对象列表夸大基线；强制触及全载缓冲页。追加/写入目前单写者，没有跨块事务、并发合并或删除。RAM工作集随K位宽增加；动态方法不是零代价无限记忆。
 
-交付：field_factory.py、stream_memory.py、test_stream_memory.py、run_stream_demo.py、bench_stream_memory.py、RESULTS_STREAMING.md及artifacts/stream_demo。旧实现和6图成果保留，README/RESEARCH/MVP_SPEC加入当前入口。
+交付：field_factory.py、stream_memory.py、test_stream_memory.py、run_stream_demo.py、bench_stream_memory.py、RESULTS.md及artifacts/stream_demo。旧实现和6图成果保留，README/RESEARCH/MVP_SPEC加入当前入口。

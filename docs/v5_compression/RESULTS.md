@@ -1,6 +1,6 @@
 # RESULTS_COMPRESSION.md — per-residue-plane delta+lzma
 
-2026-09-06；研究 RESEARCH_COMPRESSION.md，预注册 PLAN_COMPRESSION.md。
+2026-09-06；研究 RESEARCH.md，预注册 PLAN.md。
 
 ## 两种测量视角
 
