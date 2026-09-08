@@ -1,0 +1,616 @@
+{
+  "exp_a_s1": [
+    {
+      "photo": "Grace Hopper",
+      "field": 0,
+      "slot": 0,
+      "s": 1,
+      "psnr": 6.895,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Chelsea cat",
+      "field": 1,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Coffee",
+      "field": 2,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Rocket",
+      "field": 3,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Hubble deep field",
+      "field": 4,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Coins",
+      "field": 5,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Astronaut",
+      "field": 6,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Camera",
+      "field": 7,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Brick wall",
+      "field": 8,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Grass",
+      "field": 9,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Gravel",
+      "field": 10,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Microscopy IHC",
+      "field": 11,
+      "slot": 0,
+      "s": 1,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    }
+  ],
+  "exp_a_s2": [
+    {
+      "photo": "Grace Hopper",
+      "field": 0,
+      "slot": 0,
+      "s": 2,
+      "psnr": 6.874,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Chelsea cat",
+      "field": 0,
+      "slot": 1,
+      "s": 2,
+      "psnr": 9.343,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Coffee",
+      "field": 1,
+      "slot": 0,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Rocket",
+      "field": 1,
+      "slot": 1,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Hubble deep field",
+      "field": 2,
+      "slot": 0,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Coins",
+      "field": 2,
+      "slot": 1,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Astronaut",
+      "field": 3,
+      "slot": 0,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Camera",
+      "field": 3,
+      "slot": 1,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Brick wall",
+      "field": 4,
+      "slot": 0,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Grass",
+      "field": 4,
+      "slot": 1,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Gravel",
+      "field": 5,
+      "slot": 0,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Microscopy IHC",
+      "field": 5,
+      "slot": 1,
+      "s": 2,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    }
+  ],
+  "exp_a_s3": [
+    {
+      "photo": "Grace Hopper",
+      "field": 0,
+      "slot": 0,
+      "s": 3,
+      "psnr": 6.93,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Chelsea cat",
+      "field": 0,
+      "slot": 1,
+      "s": 3,
+      "psnr": 9.352,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Coffee",
+      "field": 0,
+      "slot": 2,
+      "s": 3,
+      "psnr": 7.395,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Rocket",
+      "field": 1,
+      "slot": 0,
+      "s": 3,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Hubble deep field",
+      "field": 1,
+      "slot": 1,
+      "s": 3,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Coins",
+      "field": 1,
+      "slot": 2,
+      "s": 3,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Astronaut",
+      "field": 2,
+      "slot": 0,
+      "s": 3,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Camera",
+      "field": 2,
+      "slot": 1,
+      "s": 3,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Brick wall",
+      "field": 2,
+      "slot": 2,
+      "s": 3,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Grass",
+      "field": 3,
+      "slot": 0,
+      "s": 3,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Gravel",
+      "field": 3,
+      "slot": 1,
+      "s": 3,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Microscopy IHC",
+      "field": 3,
+      "slot": 2,
+      "s": 3,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    }
+  ],
+  "exp_a_s4": [
+    {
+      "photo": "Grace Hopper",
+      "field": 0,
+      "slot": 0,
+      "s": 4,
+      "psnr": 6.94,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Chelsea cat",
+      "field": 0,
+      "slot": 1,
+      "s": 4,
+      "psnr": 9.346,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Coffee",
+      "field": 0,
+      "slot": 2,
+      "s": 4,
+      "psnr": 7.409,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Rocket",
+      "field": 0,
+      "slot": 3,
+      "s": 4,
+      "psnr": 7.856,
+      "degraded": true,
+      "in_corrupted_field": true
+    },
+    {
+      "photo": "Hubble deep field",
+      "field": 1,
+      "slot": 0,
+      "s": 4,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Coins",
+      "field": 1,
+      "slot": 1,
+      "s": 4,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Astronaut",
+      "field": 1,
+      "slot": 2,
+      "s": 4,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Camera",
+      "field": 1,
+      "slot": 3,
+      "s": 4,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Brick wall",
+      "field": 2,
+      "slot": 0,
+      "s": 4,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Grass",
+      "field": 2,
+      "slot": 1,
+      "s": 4,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Gravel",
+      "field": 2,
+      "slot": 2,
+      "s": 4,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    },
+    {
+      "photo": "Microscopy IHC",
+      "field": 2,
+      "slot": 3,
+      "s": 4,
+      "psnr": 999.0,
+      "degraded": false,
+      "in_corrupted_field": false
+    }
+  ],
+  "exp_b": {
+    "1": {
+      "0.01": 26.589,
+      "0.02": 23.8672,
+      "0.05": 20.0007,
+      "0.1": 16.848,
+      "0.2": 13.8889,
+      "0.5": 9.8922,
+      "1.0": 6.8715
+    },
+    "2": {
+      "0.01": 28.4446,
+      "0.02": 25.240499999999997,
+      "0.05": 21.10705,
+      "0.1": 18.0796,
+      "0.2": 15.10445,
+      "0.5": 11.1294,
+      "1.0": 8.12805
+    },
+    "3": {
+      "0.01": 27.781599999999997,
+      "0.02": 25.036366666666666,
+      "0.05": 20.850133333333336,
+      "0.1": 17.9145,
+      "0.2": 14.871133333333333,
+      "0.5": 10.8688,
+      "1.0": 7.881833333333333
+    },
+    "4": {
+      "0.01": 27.93045,
+      "0.02": 24.88495,
+      "0.05": 20.91435,
+      "0.1": 17.798725,
+      "0.2": 14.85535,
+      "0.5": 10.867125,
+      "1.0": 7.8719
+    }
+  },
+  "exp_c": {
+    "1": {
+      "same_field": [],
+      "cross_field": [
+        0.31400564877886694,
+        0.3197035309793471,
+        0.323869786029473,
+        0.31800766283524906,
+        0.31657958032678113,
+        0.3191843528922181,
+        0.315741280279697,
+        0.3144351290777787,
+        0.31714618326958255,
+        0.3245005433419711,
+        0.32059412550066757
+      ],
+      "same_mean": 0.0,
+      "cross_mean": 0.3185243475737847
+    },
+    "2": {
+      "same_field": [
+        0.97775
+      ],
+      "cross_field": [
+        0.31758223409584235,
+        0.3186327636515215,
+        0.31420014973795857,
+        0.31758333333333333,
+        0.3236747341093711
+      ],
+      "same_mean": 0.97775,
+      "cross_mean": 0.3183346429856054
+    },
+    "3": {
+      "same_field": [
+        0.9764558547276143,
+        0.9765869537999249,
+        0.9753380070105158
+      ],
+      "cross_field": [
+        0.3198062792251169,
+        0.31689025914507124,
+        0.3158950359351496
+      ],
+      "same_mean": 0.9761269385126848,
+      "cross_mean": 0.3175305247684459
+    },
+    "4": {
+      "same_field": [
+        0.9737725295214419,
+        0.9762585456805469,
+        0.9775015537600994,
+        0.9741293532338309,
+        0.9739000745712155,
+        0.9766314481044127
+      ],
+      "cross_field": [
+        0.32176524568282305,
+        0.319893368877041
+      ],
+      "same_mean": 0.9753655841452579,
+      "cross_mean": 0.32082930727993203
+    }
+  },
+  "hypotheses": {
+    "H_A1": "PASS",
+    "H_A2": "PASS",
+    "H_A3": "FAIL",
+    "H_A4": "FAIL",
+    "H_A5": "PASS",
+    "H_A4_max_diff_dB": 1.8556
+  },
+  "iou_results": {
+    "1": {
+      "same_field": [],
+      "cross_field": [
+        0.31400564877886694,
+        0.3197035309793471,
+        0.323869786029473,
+        0.31800766283524906,
+        0.31657958032678113,
+        0.3191843528922181,
+        0.315741280279697,
+        0.3144351290777787,
+        0.31714618326958255,
+        0.3245005433419711,
+        0.32059412550066757
+      ],
+      "same_mean": 0.0,
+      "cross_mean": 0.3185243475737847
+    },
+    "2": {
+      "same_field": [
+        0.97775
+      ],
+      "cross_field": [
+        0.31758223409584235,
+        0.3186327636515215,
+        0.31420014973795857,
+        0.31758333333333333,
+        0.3236747341093711
+      ],
+      "same_mean": 0.97775,
+      "cross_mean": 0.3183346429856054
+    },
+    "3": {
+      "same_field": [
+        0.9764558547276143,
+        0.9765869537999249,
+        0.9753380070105158
+      ],
+      "cross_field": [
+        0.3198062792251169,
+        0.31689025914507124,
+        0.3158950359351496
+      ],
+      "same_mean": 0.9761269385126848,
+      "cross_mean": 0.3175305247684459
+    },
+    "4": {
+      "same_field": [
+        0.9737725295214419,
+        0.9762585456805469,
+        0.9775015537600994,
+        0.9741293532338309,
+        0.9739000745712155,
+        0.9766314481044127
+      ],
+      "cross_field": [
+        0.32176524568282305,
+        0.319893368877041
+      ],
+      "same_mean": 0.9753655841452579,
+      "cross_mean": 0.32082930727993203
+    }
+  }
+}
